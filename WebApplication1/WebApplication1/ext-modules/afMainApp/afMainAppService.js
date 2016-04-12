@@ -22,19 +22,61 @@ angular.module("afMainApp").service('dataService', function ($localStorage, $htt
         $localStorage.$reset();
     }
 
-    this.retrieveHiraganaTestData = function () {
-        var hiraganaTest = [];
-        $http.get('/ext-modules/afMainApp/hiragana.json').success(function(data) {
-            var testData = data.filter(function (item) {
-                return !(-1 !== self.retrieveData().hiragana.indexOf(item['jp']));
+    self.getRawData = function (type) {
+        return $http.get('/ext-modules/afMainApp/' + type + '.json', { cache: true }).then(function (response) {
+            return response.data;
+        });;
+    }
+
+    this.retrieveTestData = function (type) {
+        return self.getRawData(type).then(function (data) {
+            var testData = data;
+
+            var userData = self.retrieveData()[type];
+            testData.filter(function (item) { //we filter only the one we know
+                return (-1 !== userData.indexOf(item['jp']))
             });
-            var log = [];
-            //var choices = 
-            angular.forEach(testData.slice(0, 5), function (line) {
-                this.push({ "question": line.jp, "choices": ['ni', 'ki', 'mi', 'naj', line.en], "answer": line.en });
-            }, hiraganaTest);
+            var Test = [];
+            var choices = testData.map(function (value, index) { return value['en']; });
+            angular.forEach(shuffle(testData).slice(0, 5), function (line) {
+                var currentChoices = shuffle(shuffle(choices.filter(function (item) { return item != line.en })).slice(0, 4).concat(line.en));
+                this.push({ "question": line.jp, "choices": currentChoices, "answer": line.en });
+            }, Test);
+            return Test;
         });
-        return hiraganaTest;
     };
 
+    this.retrieveLearnData = function (type) {
+        return self.getRawData(type).then(function (data) {
+            var testData = data;
+
+            var userData = self.retrieveData()[type];
+            testData.filter(function (item) {
+                return !(-1 !== userData.indexOf(item['jp']))
+            });
+            var Learn = [];
+            angular.forEach(shuffle(testData).slice(0, 5), function (line) {
+                this.push({ "question": line.jp, "choices": ['I KNOW!!', 'NO IDEA'], "answer": line.en });
+            }, Learn);
+            return Learn;
+        });
+    };
+
+    function shuffle(array) {
+        var m = array.length, t, i;
+
+        // While there remain elements to shuffle…
+        while (m) {
+
+            // Pick a remaining element…
+            i = Math.floor(Math.random() * m--);
+
+            // And swap it with the current element.
+            t = array[m];
+            array[m] = array[i];
+            array[i] = t;
+        }
+
+        return array;
+    }
 });

@@ -1,9 +1,10 @@
 ﻿{{ lastAnswer }}
+LEARNING MODE
 <div ng-if="courseData.length > currentStep">
 
     {{ courseData[currentStep].question }}
     <br />
-    answers:
+    {{ courseData[currentStep].answer }}
     <ul>
         <li ng-repeat="choice in courseData[currentStep].choices"><a ng-click="answer(choice)" href="">{{ choice }}</a></li>
     </ul>

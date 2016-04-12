@@ -1,17 +1,19 @@
 ﻿"use strict";
 
 angular.module("afCourse").controller("afCourseTestController",
-    ['$scope', 'dataService', 
-        function ($scope, dataService) {
+    ['$scope', 'dataService', '$routeParams',
+        function ($scope, dataService, $routeParams) {
             // get available data
-            $scope.courseData = dataService.retrieveHiraganaTestData();
+            dataService.retrieveTestData($routeParams.courseId).then(function (data) {
+                $scope.courseData = data;
+            });
             $scope.userData = dataService.retrieveData();
             $scope.currentStep = 0;
 
             $scope.answer = function (answer) {
                 
                 if (answer == $scope.courseData[$scope.currentStep].answer) {
-                    $scope.userData.hiragana.push($scope.courseData[$scope.currentStep].question);
+                    //$scope.userData.hiragana.push($scope.courseData[$scope.currentStep].question);
                     $scope.lastAnswer = "Correct";
                     dataService.saveData($scope.userData);
                 } else {
@@ -24,25 +26,28 @@ angular.module("afCourse").controller("afCourseTestController",
         }
     ]);
 
-angular.module("afCourse").controller("afCourseLearnController",
-    ['$scope',
-        function ($scope) {
-            // get available data
-            $scope.courseData = [
-                { "question": "キ", "choices": ['ni', 'ki', 'mi', 'naj'], "answer": 'ki' },
-                { "question": "ニ", "choices": ['ni', 'ki', 'mi', 'naj'], "answer": 'ni' },
-                { "question": "ミ", "choices": ['ni', 'ki', 'mi', 'naj'], "answer": 'mi' },
-            ];
 
+angular.module("afCourse").controller("afCourseLearnController",
+    ['$scope', 'dataService', '$routeParams',
+        function ($scope, dataService, $routeParams) {
+            // get available data
+            dataService.retrieveLearnData($routeParams.courseId).then(function (data) {
+                $scope.courseData = data;
+            });
+            $scope.userData = dataService.retrieveData();
             $scope.currentStep = 0;
 
             $scope.answer = function (answer) {
-                if (answer == $scope.courseData[$scope.currentStep].answer) {
-                    $scope.lastAnswer = "Correct";
+
+                if (answer == 'I KNOW!!') {
+                    $scope.userData.hiragana.push($scope.courseData[$scope.currentStep].question);
+                    dataService.saveData($scope.userData);
                 } else {
                     $scope.lastAnswer = "False";
+                    $scope.courseData.push($scope.courseData[$scope.currentStep]);
                 }
                 $scope.currentStep++;
+
             }
         }
     ]);
