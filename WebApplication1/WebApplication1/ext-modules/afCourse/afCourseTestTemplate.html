@@ -1,0 +1,15 @@
+﻿{{ lastAnswer }}
+{{ userData}}
+<div ng-if="courseData.length > currentStep">
+
+    {{ courseData[currentStep].question }}
+    <br />
+    answers:
+    <ul>
+        <li ng-repeat="choice in courseData[currentStep].choices track by $index"><a ng-click="answer(choice)" href="">{{ choice }}</a></li>
+    </ul>
+</div>
+<div ng-if="courseData.length <= currentStep">
+    YOU DID IT
+    <a href="#/">Back to menu</a>
+</div>
