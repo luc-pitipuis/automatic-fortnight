@@ -11,7 +11,6 @@ angular.module("afCourse").controller("afCourseTestController",
             $scope.currentStep = 0;
 
             $scope.answer = function (answer) {
-                
                 if (answer == $scope.courseData[$scope.currentStep].answer) {
                     //$scope.userData.hiragana.push($scope.courseData[$scope.currentStep].question);
                     $scope.lastAnswer = "Correct";
@@ -38,6 +37,12 @@ angular.module("afCourse").controller("afCourseLearnController",
             $scope.currentStep = 0;
 
             $scope.answer = function (answer) {
+                var canvas = document.getElementById('pwCanvasMain');
+                console.log('blah');
+                console.log(Tesseract.recognize(canvas, 'jpn'));
+                Tesseract.recognize(canvas, {
+                    lang: 'jpn'
+                }).then(function (result) { console.log(result) });
 
                 if (answer == 'I KNOW!!') {
                     $scope.userData.hiragana.push($scope.courseData[$scope.currentStep].question);

@@ -96,6 +96,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\angular-material.css" />
+    <Content Include="Content\angular-material.layouts.css" />
+    <Content Include="Content\angular-material.layouts.min.css" />
+    <Content Include="Content\angular-material.min.css" />
     <Content Include="ext-modules\afCourse\afCourseController.js" />
     <Content Include="ext-modules\afCourse\afCourseRouter.js" />
     <Content Include="ext-modules\afCourse\afCourseLearnTemplate.html" />
@@ -109,6 +113,23 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="scripts\angular-animate\angular-animate.js" />
+    <Content Include="scripts\angular-animate\angular-animate.min.js" />
+    <Content Include="scripts\angular-aria\angular-aria.js" />
+    <Content Include="scripts\angular-aria\angular-aria.min.js" />
+    <Content Include="scripts\angular-canvas-painter-master\.gitignore" />
+    <Content Include="scripts\angular-canvas-painter-master\dist\angular-canvas-painter.js" />
+    <Content Include="scripts\angular-canvas-painter-master\dist\angular-canvas-painter.min.js" />
+    <Content Include="scripts\angular-canvas-painter-master\gulpfile.js" />
+    <Content Include="scripts\angular-canvas-painter-master\index.html" />
+    <Content Include="scripts\angular-canvas-painter-master\js\pwCanvas.js" />
+    <Content Include="scripts\angular-canvas-painter-master\js\pwCanvasModule.js" />
+    <Content Include="scripts\angular-canvas-painter-master\js\pwColorSelector.js" />
+    <Content Include="scripts\angular-canvas-painter-master\templates\canvas.html" />
+    <Content Include="scripts\angular-canvas-painter-master\templates\color-selector.html" />
+    <Content Include="scripts\angular-material\angular-material-mocks.js" />
+    <Content Include="scripts\angular-material\angular-material.js" />
+    <Content Include="scripts\angular-material\angular-material.min.js" />
     <Content Include="scripts\angular-mocks.js" />
     <Content Include="scripts\angular-route.js" />
     <Content Include="scripts\angular-route.min.js" />
@@ -117,6 +138,15 @@
     <Content Include="scripts\angular.min.js.map" />
     <Content Include="scripts\angular-route.min.js.map" />
     <Content Include="ext-modules\afMainApp\hiragana.json" />
+    <Content Include="scripts\angular-aria\angular-aria.min.js.map" />
+    <Content Include="scripts\angular-animate\angular-animate.min.js.map" />
+    <Content Include="scripts\angular-canvas-painter-master\.editorconfig" />
+    <Content Include="scripts\angular-canvas-painter-master\.jshintrc" />
+    <Content Include="scripts\angular-canvas-painter-master\bower.json" />
+    <Content Include="scripts\angular-canvas-painter-master\CHANGELOG.md" />
+    <Content Include="scripts\angular-canvas-painter-master\LICENSE" />
+    <Content Include="scripts\angular-canvas-painter-master\package.json" />
+    <Content Include="scripts\angular-canvas-painter-master\README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -126,10 +156,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app\appModule.js" />
-    <Content Include="Content\angular-material.css" />
-    <Content Include="Content\angular-material.layouts.css" />
-    <Content Include="Content\angular-material.layouts.min.css" />
-    <Content Include="Content\angular-material.min.css" />
     <Content Include="ext-modules\afCourse\afCourseModule.js" />
     <Content Include="ext-modules\afHome\afHomeModule.js" />
     <Content Include="ext-modules\afMainApp\afMainAppController.js" />
@@ -139,13 +165,6 @@
     <Content Include="index.html" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
-    <Content Include="scripts\angular-animate\angular-animate.js" />
-    <Content Include="scripts\angular-animate\angular-animate.min.js" />
-    <Content Include="scripts\angular-aria\angular-aria.js" />
-    <Content Include="scripts\angular-aria\angular-aria.min.js" />
-    <Content Include="scripts\angular-material\angular-material-mocks.js" />
-    <Content Include="scripts\angular-material\angular-material.js" />
-    <Content Include="scripts\angular-material\angular-material.min.js" />
     <Content Include="scripts\ngStorage.js" />
     <Content Include="scripts\ngStorage.min.js" />
     <Content Include="Web.config" />
@@ -180,7 +199,6 @@
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
         </WebProjectProperties>
       </FlavorProperties>
-      <UserProperties ext-modules_4afMainApp_4hiragana_1json__JSONSchema="http://json-schema.org/draft-04/schema" />
     </VisualStudio>
   </ProjectExtensions>
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
