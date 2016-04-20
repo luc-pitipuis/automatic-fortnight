@@ -1,17 +1,26 @@
-﻿{{ lastAnswer }}
+﻿<h2>{{ lastAnswer }}</h2>
 LEARNING MODE
-<div ng-if="courseData.length > currentStep">
+<div layout="row" layout-margin>
 
-    {{ courseData[currentStep].question }}
-    <br />
-    {{ courseData[currentStep].answer }}
-    <ul>
-        <li ng-repeat="choice in courseData[currentStep].choices"><a ng-click="answer(choice)" href="">{{ choice }}</a></li>
-    </ul>
+    <div flex ng-if="courseData.length > currentStep">
 
-    <div pw-canvas options="{width: 250, height: 250, color: '#111'}" ng-model="lala" style="border:1px solid black;"></div>
-</div>
-<div ng-if="courseData.length <= currentStep">
-    YOU DID IT
-    <a href="#/">Back to menu</a>
+        <h1>{{ courseData[currentStep].question }}</h1>
+
+        <h1>{{ courseData[currentStep].answer }}</h1>
+
+        <br />
+        <div flex ng-if="analyzing">
+            <md-progress-circular md-mode="indeterminate"></md-progress-circular>
+        </div>
+
+        <div pw-canvas options="{width: 250, height: 250, backgroundColor:'transparent'}" style="border:1px solid black;width:250px;height:250px" back-img="{{getDraw()}}"></div>
+
+        <a ng-click="answer()" href="">HERE IS MY DRAWING</a>
+
+
+        </div>
+    <div flex ng-if="courseData.length <= currentStep">
+        YOU DID IT
+        <a href="#/">Back to menu</a>
+    </div>
 </div>
