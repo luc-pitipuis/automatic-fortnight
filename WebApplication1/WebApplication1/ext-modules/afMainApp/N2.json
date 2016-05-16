@@ -1,0 +1,1817 @@
+﻿[
+    {
+        "reading":  "アツ,エン,オウ,お.す,へ.す,おさ.える,お.さえる",
+        "en":  "pression,pousser,submerger,oppresser,dominer",
+        "jp":  "圧"
+    },
+    {
+        "reading":  "イ,エ,よ.る",
+        "en":  "dépendant,par conséquent,donc,dû à",
+        "jp":  "依"
+    },
+    {
+        "reading":  "イ,かこ.む,かこ.う,かこ.い",
+        "en":  "entourer,assiéger,enceinte,palissade,encercler,réserve,garder",
+        "jp":  "囲"
+    },
+    {
+        "reading":  "イ,ゆだ.ねる",
+        "en":  "comité,confier à,laisser à,se consacrer,abandonner",
+        "jp":  "委"
+    },
+    {
+        "reading":  "イ,うつ.る,うつ.す",
+        "en":  "déplacer,transporter,déménager,changer,inconstant,prendre (froid, feu),transférer",
+        "jp":  "移"
+    },
+    {
+        "reading":  "イ",
+        "en":  "estomac,ventre,jabot",
+        "jp":  "胃"
+    },
+    {
+        "reading":  "イ,エ,ころも,きぬ,-ぎ",
+        "en":  "vêtement,habillement",
+        "jp":  "衣"
+    },
+    {
+        "reading":  "イキ",
+        "en":  "zone,champ,région,limites,stade,niveau",
+        "jp":  "域"
+    },
+    {
+        "reading":  "イン,しるし,-じるし,しる.す",
+        "en":  "tampon,sceau,impression,empreinte,symbole,emblème,marque,preuve,souvenir,Inde",
+        "jp":  "印"
+    },
+    {
+        "reading":  "ウ,は,わ,はね",
+        "en":  "plume,compteur d\u0027oiseaux, lapins",
+        "jp":  "羽"
+    },
+    {
+        "reading":  "ウン,くも,-ぐも",
+        "en":  "nuage",
+        "jp":  "雲"
+    },
+    {
+        "reading":  "エイ,いとな.む,いとな.み",
+        "en":  "travail,camp,exécuter,construire,diriger",
+        "jp":  "営"
+    },
+    {
+        "reading":  "エイ,ヨウ,さか.える,は.え,-ば.え,は.える,え",
+        "en":  "florissant,prospérité,honneur,gloire,splendeur",
+        "jp":  "栄"
+    },
+    {
+        "reading":  "エイ,なが.い",
+        "en":  "éternité,long,permanent",
+        "jp":  "永"
+    },
+    {
+        "reading":  "エイ,するど.い",
+        "en":  "pointu,aigu,tranchant,arme,radical,violent",
+        "jp":  "鋭"
+    },
+    {
+        "reading":  "エキ",
+        "en":  "liquide,jus,fluide,sève,sécrétion",
+        "jp":  "液"
+    },
+    {
+        "reading":  "エン,の.びる,の.べる,の.べ,の.ばす",
+        "en":  "prolonger,allonger,étendre",
+        "jp":  "延"
+    },
+    {
+        "reading":  "エン,しお",
+        "en":  "sel",
+        "jp":  "塩"
+    },
+    {
+        "reading":  "オ,けが.す,けが.れる,けが.らわしい,よご.す,よご.れる,きたな.い",
+        "en":  "sale,polluer,disgrâce,profaner,souiller",
+        "jp":  "汚"
+    },
+    {
+        "reading":  "オウ",
+        "en":  "centre,milieu",
+        "jp":  "央"
+    },
+    {
+        "reading":  "オウ,おく,おく.まる,くま",
+        "en":  "intérieur,coeur,fond,épouse",
+        "jp":  "奥"
+    },
+    {
+        "reading":  "オウ,うた.う,は.く",
+        "en":  "Europe",
+        "jp":  "欧"
+    },
+    {
+        "reading":  "コウ,オウ,き,こ-",
+        "en":  "jaune",
+        "jp":  "黄"
+    },
+    {
+        "reading":  "オク",
+        "en":  "cent millions,10**8",
+        "jp":  "億"
+    },
+    {
+        "reading":  "オン,あたた.か,あたた.かい,あたた.まる,あたた.める,ぬく",
+        "en":  "chaud",
+        "jp":  "温"
+    },
+    {
+        "reading":  "カ,かわ",
+        "en":  "rivière,fleuve",
+        "jp":  "河"
+    },
+    {
+        "reading":  "カ,に",
+        "en":  "bagages,balancier,porter (un fardeau),épauler (fusil),cargaison,chargement,fret",
+        "jp":  "荷"
+    },
+    {
+        "reading":  "カ",
+        "en":  "friandise,gâteau,fruit",
+        "jp":  "菓"
+    },
+    {
+        "reading":  "カ",
+        "en":  "leçon,chapitre,section,service,division,compteur de chapitres",
+        "jp":  "課"
+    },
+    {
+        "reading":  "カ,たから",
+        "en":  "fret,biens",
+        "jp":  "貨"
+    },
+    {
+        "reading":  "カイ",
+        "en":  "immixtion,coquillage,intervention,intermédiaire,s\u0027occuper de",
+        "jp":  "介"
+    },
+    {
+        "reading":  "カイ,こころよ.い",
+        "en":  "agréable,gai,plaisant,confortable",
+        "jp":  "快"
+    },
+    {
+        "reading":  "カイ,あらた.める,あらた.まる",
+        "en":  "réforme,changer,modifier,améliorer,renouveler,examiner,inspecter,chercher",
+        "jp":  "改"
+    },
+    {
+        "reading":  "カイ,かせ",
+        "en":  "instrument,machine,entrave",
+        "jp":  "械"
+    },
+    {
+        "reading":  "カイ,はい",
+        "en":  "cendre,lessive,incinéré",
+        "jp":  "灰"
+    },
+    {
+        "reading":  "カイ,きざはし",
+        "en":  "étage,niveau,compteur d\u0027étages",
+        "jp":  "階"
+    },
+    {
+        "reading":  "バイ,かい",
+        "en":  "coquillage",
+        "jp":  "貝"
+    },
+    {
+        "reading":  "カク,おのおの",
+        "en":  "chacun,chaque",
+        "jp":  "各"
+    },
+    {
+        "reading":  "カク,かど,つの",
+        "en":  "angle,coin,carré,corne,bois (andouillers)",
+        "jp":  "角"
+    },
+    {
+        "reading":  "カク,かわ",
+        "en":  "cuir,peau,fourrure,devenir sérieux,rénovation,réforme",
+        "jp":  "革"
+    },
+    {
+        "reading":  "ガク,ひたい",
+        "en":  "front,tablette,plaque,peinture (encadrée),somme,montant,volume",
+        "jp":  "額"
+    },
+    {
+        "reading":  "カン,ケン,かわ.く,かわ.かす,ほ.す,ひ.る,いぬい",
+        "en":  "sécheresse,sécher,dessécher,vider (verre),cieux,empereur",
+        "jp":  "乾"
+    },
+    {
+        "reading":  "カン",
+        "en":  "publier,ciseler,graver",
+        "jp":  "刊"
+    },
+    {
+        "reading":  "カン,ケン,ま.く,まき,ま.き",
+        "en":  "rouleau,livre,tome,volume,partie,enrouler,envelopper,compteur de textes (manuscrits roulés)",
+        "jp":  "巻"
+    },
+    {
+        "reading":  "カン,ほ.す,ほ.し-,-ぼ.し,ひ.る",
+        "en":  "sec,dessécher",
+        "jp":  "干"
+    },
+    {
+        "reading":  "カン,わずら.う",
+        "en":  "maladie,affection,souffrir de,patient",
+        "jp":  "患"
+    },
+    {
+        "reading":  "カン,か.える,-か.える,か.わる",
+        "en":  "échanger,remplacer,convertir,change",
+        "jp":  "換"
+    },
+    {
+        "reading":  "カン,あせ",
+        "en":  "sueur,transpirer",
+        "jp":  "汗"
+    },
+    {
+        "reading":  "カン,あま.い,あま.える,あま.やかす,うま.い",
+        "en":  "doux,enjôler,dorloter,être content,sucré",
+        "jp":  "甘"
+    },
+    {
+        "reading":  "カン,くだ",
+        "en":  "tuyau,tube,instrument à vent,discours d\u0027ivrogne,gestion",
+        "jp":  "管"
+    },
+    {
+        "reading":  "カン,ケン,えら.ぶ,ふだ",
+        "en":  "simplicité,brièveté",
+        "jp":  "簡"
+    },
+    {
+        "reading":  "カン,かま",
+        "en":  "boîte de conserve,récipient,radical jarre (no. 121)",
+        "jp":  "缶"
+    },
+    {
+        "reading":  "ガン,まる,まる.める,まる.い",
+        "en":  "rond,arrondir,entier (mois),pilule,perfection,suffixe des bateaux,se pelotonner,se rouler en boule,séduire,justifier",
+        "jp":  "丸"
+    },
+    {
+        "reading":  "ガン,ふく.む,ふく.める",
+        "en":  "inclure,retenir,comprendre,chérir",
+        "jp":  "含"
+    },
+    {
+        "reading":  "ガン,きし",
+        "en":  "côte,rive,plage",
+        "jp":  "岸"
+    },
+    {
+        "reading":  "ガン,いわ",
+        "en":  "rocher,roc,falaise",
+        "jp":  "岩"
+    },
+    {
+        "reading":  "キ,ケ,まれ",
+        "en":  "espoir,demander,prier,implorer,dilution,Grèce,rare,peu nombreux,phénoménal",
+        "jp":  "希"
+    },
+    {
+        "reading":  "キ,つくえ",
+        "en":  "bureau,table",
+        "jp":  "机"
+    },
+    {
+        "reading":  "キ,いの.る",
+        "en":  "prier,voeu",
+        "jp":  "祈"
+    },
+    {
+        "reading":  "ギ,わざ",
+        "en":  "habileté,art,technique,jeu (d\u0027acteur),prouesse,métier,vocation,arts",
+        "jp":  "技"
+    },
+    {
+        "reading":  "キツ,の.む",
+        "en":  "consommer,manger,boire,fumer,recevoir (un coup)",
+        "jp":  "喫"
+    },
+    {
+        "reading":  "キツ,キチ,つ.める,つ.め,-づ.め,つ.まる,つ.む",
+        "en":  "hermétiquement clos,conserve,coincé,réprimande,blâme",
+        "jp":  "詰"
+    },
+    {
+        "reading":  "ギャク,ゲキ,さか,さか.さ,さか.らう",
+        "en":  "inverse,contraire,opposé,mauvais",
+        "jp":  "逆"
+    },
+    {
+        "reading":  "キュウ,ク,ひさ.しい",
+        "en":  "longtemps,vieille histoire",
+        "jp":  "久"
+    },
+    {
+        "reading":  "キュウ,ふる.い,もと",
+        "en":  "ancien temps,anciennes choses,ancien ami,ancien -,ex-",
+        "jp":  "旧"
+    },
+    {
+        "reading":  "キョ",
+        "en":  "gigantesque,grand,gros",
+        "jp":  "巨"
+    },
+    {
+        "reading":  "ギョ,リョウ,あさ.る",
+        "en":  "pêcher (en masse),pêcherie",
+        "jp":  "漁"
+    },
+    {
+        "reading":  "キョウ,ケイ,きそ.う,せ.る,くら.べる",
+        "en":  "compétition,rivaliser,enchère,vente aux enchères,combat,concours,course",
+        "jp":  "競"
+    },
+    {
+        "reading":  "キョウ",
+        "en":  "coopération,co-",
+        "jp":  "協"
+    },
+    {
+        "reading":  "キョウ,さけ.ぶ",
+        "en":  "crier,hurler,s\u0027exclamer",
+        "jp":  "叫"
+    },
+    {
+        "reading":  "キョウ,ケイ,さかい",
+        "en":  "frontière,région,environnement",
+        "jp":  "境"
+    },
+    {
+        "reading":  "キョウ,ショウ,はさ.む,はさ.まる,わきばさ.む,さしはさ.む",
+        "en":  "pincer,entre deux",
+        "jp":  "挟"
+    },
+    {
+        "reading":  "キョウ,はし",
+        "en":  "pont",
+        "jp":  "橋"
+    },
+    {
+        "reading":  "キョウ,まし.て,いわ.んや,おもむき",
+        "en":  "situation,condition,encore moins,encore plus,à plus forte raison",
+        "jp":  "況"
+    },
+    {
+        "reading":  "キョウ,むね,むな-",
+        "en":  "poitrine,seins,coeur,sentiments",
+        "jp":  "胸"
+    },
+    {
+        "reading":  "キョク,ゴク,きわ.める,きわ.まる,きわ.まり,きわ.み,き.める,-ぎ.め,き.まる",
+        "en":  "extrêmes,pôles (N et S),décision,conclusion,fin,plus haut rang,pôles électriques,très,extrêmement,le plus,hautement,10**48",
+        "jp":  "極"
+    },
+    {
+        "reading":  "ギョク,たま,たま-,-だま",
+        "en":  "bijoux,balle,boule",
+        "jp":  "玉"
+    },
+    {
+        "reading":  "キン,なら.す",
+        "en":  "nivelé,égalisé,moyenne",
+        "jp":  "均"
+    },
+    {
+        "reading":  "キン",
+        "en":  "interdiction,défense de",
+        "jp":  "禁"
+    },
+    {
+        "reading":  "ク,オウ,コウ",
+        "en":  "circonscription,arrondissement",
+        "jp":  "区"
+    },
+    {
+        "reading":  "グウ,すみ",
+        "en":  "coin,recoin",
+        "jp":  "隅"
+    },
+    {
+        "reading":  "クツ,ほ.る",
+        "en":  "creuser,fouiller,déterrer",
+        "jp":  "掘"
+    },
+    {
+        "reading":  "クン,キン,おし.える,よ.む,くん.ずる",
+        "en":  "instructions,lecture japonaise,explication,lire",
+        "jp":  "訓"
+    },
+    {
+        "reading":  "グン,む.れる,む.れ,むら,むら.がる",
+        "en":  "troupeau,groupe,foule,essaim",
+        "jp":  "群"
+    },
+    {
+        "reading":  "グン,いくさ",
+        "en":  "armée,forces,troupes,guerriers,bataille",
+        "jp":  "軍"
+    },
+    {
+        "reading":  "ケイ,かたむ.く,かたむ.ける,かたぶ.く,かた.げる,かし.げる",
+        "en":  "incliner,pencher,tendance,déclin,sombrer,ruiner,gîte (bateau)",
+        "jp":  "傾"
+    },
+    {
+        "reading":  "ケイ,かた,-がた",
+        "en":  "moule,modèle,type",
+        "jp":  "型"
+    },
+    {
+        "reading":  "ケイ,キョウ,うやま.う",
+        "en":  "respect,déférence,honorer,révérer",
+        "jp":  "敬"
+    },
+    {
+        "reading":  "ケイ,かる.い,かろ.やか,かろ.んじる",
+        "en":  "léger,insignifiant,sans importance",
+        "jp":  "軽"
+    },
+    {
+        "reading":  "ゲイ,ウン,う.える,のり,わざ",
+        "en":  "art,technique,métier,interprétation,tour,cascade",
+        "jp":  "芸"
+    },
+    {
+        "reading":  "ゲキ",
+        "en":  "théâtre,pièce (théâtre)",
+        "jp":  "劇"
+    },
+    {
+        "reading":  "ケツ,ち",
+        "en":  "sang",
+        "jp":  "血"
+    },
+    {
+        "reading":  "ケン",
+        "en":  "ticket,coupon",
+        "jp":  "券"
+    },
+    {
+        "reading":  "ケン,か.ける",
+        "en":  "préfecture,département",
+        "jp":  "県"
+    },
+    {
+        "reading":  "ケン,かた",
+        "en":  "épaule",
+        "jp":  "肩"
+    },
+    {
+        "reading":  "ケン,かしこ.い",
+        "en":  "intelligent,sage,sagesse",
+        "jp":  "賢"
+    },
+    {
+        "reading":  "ケン,のき",
+        "en":  "gouttière,auvent,compteur de maisons",
+        "jp":  "軒"
+    },
+    {
+        "reading":  "ゲン,へ.る,へ.らす",
+        "en":  "diminuer,réduire,décliner,décroître,avoir faim",
+        "jp":  "減"
+    },
+    {
+        "reading":  "コ,カ",
+        "en":  "individuel,privé,compteur d\u0027articles,compteur d\u0027unités militaires",
+        "jp":  "個"
+    },
+    {
+        "reading":  "コ,かた.める,かた.まる,かた.まり,かた.い",
+        "en":  "solide,durcir,résolu,coaguler,cailler",
+        "jp":  "固"
+    },
+    {
+        "reading":  "コ,ク,くら",
+        "en":  "entrepôt,stock,magasin",
+        "jp":  "庫"
+    },
+    {
+        "reading":  "コ,と",
+        "en":  "porte,compteur de maisons,radical porte (no 63)",
+        "jp":  "戸"
+    },
+    {
+        "reading":  "コ,か.れる,か.らす",
+        "en":  "dépérir,mourir,se faner,sec (bois)",
+        "jp":  "枯"
+    },
+    {
+        "reading":  "コ,みずうみ",
+        "en":  "lac",
+        "jp":  "湖"
+    },
+    {
+        "reading":  "コ,やと.う",
+        "en":  "employer,embaucher",
+        "jp":  "雇"
+    },
+    {
+        "reading":  "コウ,き.く,ききめ,なら.う",
+        "en":  "efficacité,bénéfique,mérite",
+        "jp":  "効"
+    },
+    {
+        "reading":  "コウ,あつ.い,あか",
+        "en":  "épais,lourd,cordial,chaleureux,gentil,effronté,éhonté",
+        "jp":  "厚"
+    },
+    {
+        "reading":  "コウ,かた.い",
+        "en":  "dur,raide",
+        "jp":  "硬"
+    },
+    {
+        "reading":  "コウ,ク,べに,くれない,あか.い",
+        "en":  "cramoisi,rouge foncé",
+        "jp":  "紅"
+    },
+    {
+        "reading":  "コウ,たがや.す",
+        "en":  "labourer,cultiver",
+        "jp":  "耕"
+    },
+    {
+        "reading":  "コウ,がえんじ.る",
+        "en":  "accord,consentement,se conformer à,affirmatif",
+        "jp":  "肯"
+    },
+    {
+        "reading":  "コウ",
+        "en":  "naviguer,faire voile,croiser (voile),voler",
+        "jp":  "航"
+    },
+    {
+        "reading":  "コウ,あら.い,あら-,あ.れる,あ.らす,-あ.らし,すさ.む",
+        "en":  "brutalité,dévaster,rude,sauvage",
+        "jp":  "荒"
+    },
+    {
+        "reading":  "コウ",
+        "en":  "cours magistral,club,association",
+        "jp":  "講"
+    },
+    {
+        "reading":  "コウ",
+        "en":  "périphérie,banlieue,zone rurale",
+        "jp":  "郊"
+    },
+    {
+        "reading":  "コウ,あらがね",
+        "en":  "minéral,minerai",
+        "jp":  "鉱"
+    },
+    {
+        "reading":  "コウ,キョウ,か,かお.り,かお.る",
+        "en":  "senteur,encens,parfum",
+        "jp":  "香"
+    },
+    {
+        "reading":  "ヨウ,こし",
+        "en":  "reins,hanche,taille,lambris à hauteur de taille",
+        "jp":  "腰"
+    },
+    {
+        "reading":  "コツ,ほね",
+        "en":  "os,squelette,restes,charpente",
+        "jp":  "骨"
+    },
+    {
+        "reading":  "コン,ね,-ね",
+        "en":  "racine,radical,point noir (acné)",
+        "jp":  "根"
+    },
+    {
+        "reading":  "コン,ま.じる,-ま.じり,ま.ざる,ま.ぜる,こ.む",
+        "en":  "mélanger,confusion",
+        "jp":  "混"
+    },
+    {
+        "reading":  "サ",
+        "en":  "investigation",
+        "jp":  "査"
+    },
+    {
+        "reading":  "サ,シャ,すな",
+        "en":  "sable",
+        "jp":  "砂"
+    },
+    {
+        "reading":  "サイ,サ,ふたた.び",
+        "en":  "encore une fois,deux fois,une deuxième fois",
+        "jp":  "再"
+    },
+    {
+        "reading":  "サイ,と.る",
+        "en":  "cueillir,prendre,aller chercher",
+        "jp":  "採"
+    },
+    {
+        "reading":  "サイ,まつ.る,まつ.り,まつり",
+        "en":  "rituel,fête,prières,célébration,déifier,enchâsser,adoration",
+        "jp":  "祭"
+    },
+    {
+        "reading":  "サイ,ほそ.い,ほそ.る,こま.か,こま.かい",
+        "en":  "menu,long et fin,délicat,mince,fluet,étroit",
+        "jp":  "細"
+    },
+    {
+        "reading":  "サイ,な",
+        "en":  "légume,accompagnement (du riz)",
+        "jp":  "菜"
+    },
+    {
+        "reading":  "ザイ",
+        "en":  "matériaux,ingrédients,bois de charpente,bille de bois,bûche,talent",
+        "jp":  "材"
+    },
+    {
+        "reading":  "ハン,さか",
+        "en":  "pente,incliner,colline",
+        "jp":  "坂"
+    },
+    {
+        "reading":  "ショウ,さ.く,-ざき",
+        "en":  "fleurir,floraison",
+        "jp":  "咲"
+    },
+    {
+        "reading":  "サツ,サク,ふみ",
+        "en":  "tome,volume,compteur de livres",
+        "jp":  "冊"
+    },
+    {
+        "reading":  "サツ,す.る,-ず.り,-ずり,は.く",
+        "en":  "imprimer,impression",
+        "jp":  "刷"
+    },
+    {
+        "reading":  "サツ,ふだ",
+        "en":  "étiquette,billet de banque,compteur d\u0027obligations,affiche,offre",
+        "jp":  "札"
+    },
+    {
+        "reading":  "ベイ,さら",
+        "en":  "assiette,plat,portion",
+        "jp":  "皿"
+    },
+    {
+        "reading":  "サン,そろ",
+        "en":  "calculer,prédire,nombre,abaque (boulier),probabilité",
+        "jp":  "算"
+    },
+    {
+        "reading":  "シ,うかが.う",
+        "en":  "visiter (hon),présenter ses respects,demander,s\u0027informer,questionner,implorer",
+        "jp":  "伺"
+    },
+    {
+        "reading":  "シ,さ.す,さ.さる,さ.し,さし,とげ",
+        "en":  "piquer,coudre,enfoncer,percer,tailler,épine,carte de visite",
+        "jp":  "刺"
+    },
+    {
+        "reading":  "シ,えだ",
+        "en":  "branche,rameau,brindille,compteur de branches",
+        "jp":  "枝"
+    },
+    {
+        "reading":  "シ,いと",
+        "en":  "fil",
+        "jp":  "糸"
+    },
+    {
+        "reading":  "シ,あぶら",
+        "en":  "gras,graisse,suif,lard,résine,gomme,goudron",
+        "jp":  "脂"
+    },
+    {
+        "reading":  "シ",
+        "en":  "partie du discours,mots,poésie",
+        "jp":  "詞"
+    },
+    {
+        "reading":  "シ",
+        "en":  "document,dossier",
+        "jp":  "誌"
+    },
+    {
+        "reading":  "ジ,ニ,ゲイ,こ,-こ,-っこ",
+        "en":  "nouveau-né,enfant,petit d\u0027animal",
+        "jp":  "児"
+    },
+    {
+        "reading":  "ジ,てら",
+        "en":  "temple bouddhiste",
+        "jp":  "寺"
+    },
+    {
+        "reading":  "シツ,シュウ,しめ.る,しめ.す,うるお.う,うるお.す",
+        "en":  "moite,humide,mouillé",
+        "jp":  "湿"
+    },
+    {
+        "reading":  "シャ,す.てる",
+        "en":  "jeter,mettre au rebut,abandonner,démissionner,rejet,sacrifice",
+        "jp":  "捨"
+    },
+    {
+        "reading":  "ジャク,よわ.い,よわ.る,よわ.まる,よわ.める",
+        "en":  "faible,fragile",
+        "jp":  "弱"
+    },
+    {
+        "reading":  "シュウ,まわ.り",
+        "en":  "circonférence,tour,alentours",
+        "jp":  "周"
+    },
+    {
+        "reading":  "シュウ,ス,す",
+        "en":  "province,état",
+        "jp":  "州"
+    },
+    {
+        "reading":  "シュウ,ジュウ,ひろ.う",
+        "en":  "ramasser,cueillir,trouver,aller à pied,10 (X)",
+        "jp":  "拾"
+    },
+    {
+        "reading":  "シュウ,ふね,ふな-,-ぶね",
+        "en":  "bateau,vaisseau",
+        "jp":  "舟"
+    },
+    {
+        "reading":  "ジュウ,ニュウ,やわ.らか,やわ.らかい,やわ,やわ.ら",
+        "en":  "tendre,faiblesse,douceur",
+        "jp":  "柔"
+    },
+    {
+        "reading":  "シュク,シュウ,いわ.う",
+        "en":  "célébrer,féliciter",
+        "jp":  "祝"
+    },
+    {
+        "reading":  "ジュツ,の.べる",
+        "en":  "mentionner,déclarer,parler,raconter",
+        "jp":  "述"
+    },
+    {
+        "reading":  "ジュン,じゅん.じる,じゅん.ずる,なぞら.える,のり,ひと.しい,みずもり",
+        "en":  "demi-,correspondre à,proportionnel à,se conformer à,standard",
+        "jp":  "準"
+    },
+    {
+        "reading":  "ジュン",
+        "en":  "authentique,pureté,innocence,net (bénéfice)",
+        "jp":  "純"
+    },
+    {
+        "reading":  "ジュン",
+        "en":  "obéir,ordre (tour),juste,docilité,occasion",
+        "jp":  "順"
+    },
+    {
+        "reading":  "ショ",
+        "en":  "signature,commissariat de police,bureau (administration),autorités publiques",
+        "jp":  "署"
+    },
+    {
+        "reading":  "ショ,もろ,これ",
+        "en":  "several",
+        "jp":  "諸"
+    },
+    {
+        "reading":  "ショウ,め.す",
+        "en":  "faire venir à soi,appeler,inviter,prendre (bain),porter (vêtements),acheter,conduire,boire,manger,attraper (froid)",
+        "jp":  "召"
+    },
+    {
+        "reading":  "ショウ,ソウ,まさ.に,はた,まさ,ひきい.る,もって",
+        "en":  "dirigeant,commandant,général,amiral,ou,l\u0027un après l\u0027autre,bientôt,à partir de maintenant,à peu près",
+        "jp":  "将"
+    },
+    {
+        "reading":  "ショウ,とこ,ゆか",
+        "en":  "plancher,lit,rembourrage,tatami,compteur de lits",
+        "jp":  "床"
+    },
+    {
+        "reading":  "ショウ,ジョウ,うけたまわ.る,う.ける,ささ.げる,とど.める,こ.らす,つい.で,すく.う",
+        "en":  "consentir,entendre,écouter,être informé,recevoir",
+        "jp":  "承"
+    },
+    {
+        "reading":  "ショウ,のぼ.る",
+        "en":  "s\u0027élever",
+        "jp":  "昇"
+    },
+    {
+        "reading":  "ショウ,や.く,や.き,や.き-,-や.き,や.ける",
+        "en":  "griller,brûler",
+        "jp":  "焼"
+    },
+    {
+        "reading":  "ショウ,て.る,て.らす,て.れる",
+        "en":  "illuminer,briller,comparer,timide",
+        "jp":  "照"
+    },
+    {
+        "reading":  "セイ,ショウ,かえり.みる,はぶ.く",
+        "en":  "faire le point (introspection),abréviation,omission,économie,ministère,éliminer",
+        "jp":  "省"
+    },
+    {
+        "reading":  "ショウ",
+        "en":  "badge,clairement visible,composition,poème,chapitre,dessin",
+        "jp":  "章"
+    },
+    {
+        "reading":  "ショウ",
+        "en":  "présentations,introduction,hériter,aider",
+        "jp":  "紹"
+    },
+    {
+        "reading":  "ショウ,ゾウ,かたど.る",
+        "en":  "éléphant,modèle,imiter,image,forme,signe (des temps),phénomène",
+        "jp":  "象"
+    },
+    {
+        "reading":  "ショウ,ほ.める",
+        "en":  "prix,récompense,louanges",
+        "jp":  "賞"
+    },
+    {
+        "reading":  "ジョウ,しろ",
+        "en":  "château",
+        "jp":  "城"
+    },
+    {
+        "reading":  "ジョウ,チョウ,たた.む,たたみ,かさ.なる",
+        "en":  "tatami,compteur de tatamis,surface : 182 cm x 91 cm,replier,empiler,répété,fermer, boucler (maison),terminer",
+        "jp":  "畳"
+    },
+    {
+        "reading":  "ジョウ,セイ,む.す,む.れる,む.らす",
+        "en":  "cuire à la vapeur,chauffer,torride,fomenter,renfermé",
+        "jp":  "蒸"
+    },
+    {
+        "reading":  "ショク,う.える,う.わる",
+        "en":  "planter",
+        "jp":  "植"
+    },
+    {
+        "reading":  "ショク,ふ.れる,さわ.る,さわ",
+        "en":  "contact,toucher,sentir,frapper,proclamer,annoncer,conflit",
+        "jp":  "触"
+    },
+    {
+        "reading":  "シン,の.びる,の.ばす,の.べる,の.す",
+        "en":  "allonger,étirer,accroître,étendre,augmenter",
+        "jp":  "伸"
+    },
+    {
+        "reading":  "シン,もり",
+        "en":  "forêt,bois",
+        "jp":  "森"
+    },
+    {
+        "reading":  "シン,ジン",
+        "en":  "servant,serviteur,sujet",
+        "jp":  "臣"
+    },
+    {
+        "reading":  "シン,から.い,つら.い,-づら.い,かのと",
+        "en":  "épicé,amer,piquant,âcre",
+        "jp":  "辛"
+    },
+    {
+        "reading":  "シン,はり",
+        "en":  "aiguille,épingle,agrafe,dard",
+        "jp":  "針"
+    },
+    {
+        "reading":  "シン,ふる.う,ふる.える",
+        "en":  "tremblement,secouer,frémir,frissonner",
+        "jp":  "震"
+    },
+    {
+        "reading":  "セイ,ゼイ,いきお.い,はずみ",
+        "en":  "vigueur,forces,énergie,puissance militaire",
+        "jp":  "勢"
+    },
+    {
+        "reading":  "セイ,ショウ",
+        "en":  "nom de famille",
+        "jp":  "姓"
+    },
+    {
+        "reading":  "セイ,ショウ,ほし,-ぼし",
+        "en":  "étoile,point,marque",
+        "jp":  "星"
+    },
+    {
+        "reading":  "セイ,ショウ,シン,きよ.い,きよ.まる,きよ.める",
+        "en":  "pur,purifier,exorciser,nettoyer,dynastie Mandchoue",
+        "jp":  "清"
+    },
+    {
+        "reading":  "ゼイ",
+        "en":  "taxe,droits",
+        "jp":  "税"
+    },
+    {
+        "reading":  "セキ",
+        "en":  "compteur de bateaux,compteur d\u0027oiseaux,vaisseaux,poissons,flèches,l\u0027un d\u0027une paire",
+        "jp":  "隻"
+    },
+    {
+        "reading":  "セキ",
+        "en":  "enrôler,domicile,registre (état civil, domicile),adhésion",
+        "jp":  "籍"
+    },
+    {
+        "reading":  "セキ",
+        "en":  "performance,cocons non déroulés",
+        "jp":  "績"
+    },
+    {
+        "reading":  "セキ,あと",
+        "en":  "traces,marques,vestiges,empreinte",
+        "jp":  "跡"
+    },
+    {
+        "reading":  "セツ,ショウ,つ.ぐ",
+        "en":  "joindre,toucher,contact,recoller (morceaux)",
+        "jp":  "接"
+    },
+    {
+        "reading":  "セツ,もう.ける",
+        "en":  "créer,fonder,établir,préparer",
+        "jp":  "設"
+    },
+    {
+        "reading":  "セン,し.める,うらな.う",
+        "en":  "bonne aventure,divination,prédiction,occuper,tenir,posséder,avoir,prendre",
+        "jp":  "占"
+    },
+    {
+        "reading":  "セン,もっぱ.ら",
+        "en":  "spécialité,exclusivement,principalement,uniquement",
+        "jp":  "専"
+    },
+    {
+        "reading":  "セン,いずみ",
+        "en":  "source,fontaine",
+        "jp":  "泉"
+    },
+    {
+        "reading":  "セン,あさ.い",
+        "en":  "peu profond,superficiel,frivole,misérable,honteux",
+        "jp":  "浅"
+    },
+    {
+        "reading":  "セン,すじ",
+        "en":  "ligne,voie",
+        "jp":  "線"
+    },
+    {
+        "reading":  "ソウ,ふた,たぐい,ならぶ,ふたつ",
+        "en":  "paire,ensemble (groupe d\u0027objets),comparaison,compteur de paires",
+        "jp":  "双"
+    },
+    {
+        "reading":  "ソウ",
+        "en":  "strate,classe sociale,couche,étage",
+        "jp":  "層"
+    },
+    {
+        "reading":  "ソウ,シュ,シュウ,さが.す",
+        "en":  "chercher,rechercher,détecter,repérer",
+        "jp":  "捜"
+    },
+    {
+        "reading":  "ソウ,シュ,は.く",
+        "en":  "balayer,brosser,nettoyer",
+        "jp":  "掃"
+    },
+    {
+        "reading":  "ソウ,はしゃ.ぐ",
+        "en":  "dessécher,être joyeux",
+        "jp":  "燥"
+    },
+    {
+        "reading":  "ソウ,す.べて,すべ.て,ふさ",
+        "en":  "général,entier,tout,complet,total",
+        "jp":  "総"
+    },
+    {
+        "reading":  "ソウ,ショウ,よそお.う,よそお.い",
+        "en":  "revêtir,tenue,déguisement,prétendre,faire semblant",
+        "jp":  "装"
+    },
+    {
+        "reading":  "ゾウ",
+        "en":  "statue,image,figure,portrait,représentation",
+        "jp":  "像"
+    },
+    {
+        "reading":  "ゾウ,にく.む,にく.い,にく.らしい,にく.しみ",
+        "en":  "haine,détester",
+        "jp":  "憎"
+    },
+    {
+        "reading":  "ゾウ,はらわた",
+        "en":  "entrailles,viscères,intestins",
+        "jp":  "臓"
+    },
+    {
+        "reading":  "ゾウ,ソウ,くら,おさ.める,かく.れる",
+        "en":  "entrepôt,salle de stockage,cacher,avoir,posséder",
+        "jp":  "蔵"
+    },
+    {
+        "reading":  "ゾウ,ソウ,おく.る",
+        "en":  "cadeau,envoyer,offrir,donner,accorder,conférer,remise (prix)",
+        "jp":  "贈"
+    },
+    {
+        "reading":  "ゾウ,つく.る,つく.り,-づく.り",
+        "en":  "créer,fabriquer,structure,physique,maquillage",
+        "jp":  "造"
+    },
+    {
+        "reading":  "ソク,のっと.る",
+        "en":  "règlement,règle,suivre,norme,loi (science, nature)",
+        "jp":  "則"
+    },
+    {
+        "reading":  "ソク,はか.る",
+        "en":  "brasse,mesurer,sonder,plan",
+        "jp":  "測"
+    },
+    {
+        "reading":  "ソツ,シュツ,そっ.する,お.える,お.わる,ついに,にわか",
+        "en":  "fin d\u0027études,soldat,privé,mourir",
+        "jp":  "卒"
+    },
+    {
+        "reading":  "ソン,まご",
+        "en":  "petits-enfants,descendants",
+        "jp":  "孫"
+    },
+    {
+        "reading":  "ソン,たっと.い,とうと.い,たっと.ぶ,とうと.ぶ",
+        "en":  "révérer,précieux,noble,haut placé",
+        "jp":  "尊"
+    },
+    {
+        "reading":  "ソン,そこ.なう,そこな.う,-そこ.なう,そこ.ねる,-そこ.ねる",
+        "en":  "blesser,nuire,dommages,perte",
+        "jp":  "損"
+    },
+    {
+        "reading":  "ソン,むら",
+        "en":  "village,ville",
+        "jp":  "村"
+    },
+    {
+        "reading":  "タイ,お.びる,おび",
+        "en":  "ceinture,écharpe,obi,zone,région",
+        "jp":  "帯"
+    },
+    {
+        "reading":  "タイ,か.える,か.え-,か.わる",
+        "en":  "substituer,remplacer,échanger",
+        "jp":  "替"
+    },
+    {
+        "reading":  "タイ,ダイ,ふくろ",
+        "en":  "sac,sacoche,mère",
+        "jp":  "袋"
+    },
+    {
+        "reading":  "タク,すす.ぐ,ゆす.ぐ",
+        "en":  "lessive,laver,rincer,verser",
+        "jp":  "濯"
+    },
+    {
+        "reading":  "コク,たに,きわ.まる",
+        "en":  "vallée",
+        "jp":  "谷"
+    },
+    {
+        "reading":  "タン,かつ.ぐ,にな.う",
+        "en":  "se charger de,responsable,porter,soutenir",
+        "jp":  "担"
+    },
+    {
+        "reading":  "タン,すみ",
+        "en":  "charbon de bois,charbon",
+        "jp":  "炭"
+    },
+    {
+        "reading":  "タン,みじか.い",
+        "en":  "court,bref,faute,défaut,point faible",
+        "jp":  "短"
+    },
+    {
+        "reading":  "ダン,トン,かたまり,まる.い",
+        "en":  "groupe,association",
+        "jp":  "団"
+    },
+    {
+        "reading":  "チ,いけ",
+        "en":  "étang,mare,réservoir (eau)",
+        "jp":  "池"
+    },
+    {
+        "reading":  "チク,きず.く",
+        "en":  "bâtir,construire,fabriquer",
+        "jp":  "築"
+    },
+    {
+        "reading":  "チク",
+        "en":  "bétail,animaux domestiques",
+        "jp":  "畜"
+    },
+    {
+        "reading":  "チク,たけ",
+        "en":  "bambou",
+        "jp":  "竹"
+    },
+    {
+        "reading":  "チュウ,なか",
+        "en":  "relation,médiation,intermédiaire",
+        "jp":  "仲"
+    },
+    {
+        "reading":  "チュウ,はしら",
+        "en":  "poteau,cylindre,support",
+        "jp":  "柱"
+    },
+    {
+        "reading":  "チュウ,キ,むし",
+        "en":  "insecte,vermine,ver,reptile,colère",
+        "jp":  "虫"
+    },
+    {
+        "reading":  "チュウ",
+        "en":  "stationner,résident",
+        "jp":  "駐"
+    },
+    {
+        "reading":  "チョ,チャク,あらわ.す,いちじる.しい",
+        "en":  "renommé,publier,écrire,remarquable,phénoménal,porter,arrivée,auteur,ouvrage littéraire,compteur de vêtements",
+        "jp":  "著"
+    },
+    {
+        "reading":  "チョ,た.める,たくわ.える",
+        "en":  "économies,épargne,réserve,stocker,porter la moustache",
+        "jp":  "貯"
+    },
+    {
+        "reading":  "チョウ,きざ.す,きざ.し",
+        "en":  "augures,présage,signe,symptômes,10**12,1000 milliards",
+        "jp":  "兆"
+    },
+    {
+        "reading":  "チョウ,テイ,やくしょ",
+        "en":  "bureau du gouvernement",
+        "jp":  "庁"
+    },
+    {
+        "reading":  "チョウ,こ.える,こ.す",
+        "en":  "dépasser,super-,sur-",
+        "jp":  "超"
+    },
+    {
+        "reading":  "チン,ジン,しず.む,しず.める",
+        "en":  "couler,être submergé,s\u0027enfoncer,être déprimé,aloès",
+        "jp":  "沈"
+    },
+    {
+        "reading":  "チン,めずら.しい,たから",
+        "en":  "rare,curieux,étrange",
+        "jp":  "珍"
+    },
+    {
+        "reading":  "テイ,ひく.い,ひく.める,ひく.まる",
+        "en":  "bas,petit (taille),humble",
+        "jp":  "低"
+    },
+    {
+        "reading":  "テイ,と.める,と.まる",
+        "en":  "arrêt,halte",
+        "jp":  "停"
+    },
+    {
+        "reading":  "テイ,そこ",
+        "en":  "partie basse,fond,semelle,profondeur,prix plancher,base,sorte",
+        "jp":  "底"
+    },
+    {
+        "reading":  "デイ,ナイ,デ,ニ,どろ",
+        "en":  "boue,fange,tenir à,voleur",
+        "jp":  "泥"
+    },
+    {
+        "reading":  "テキ,しずく,したた.る",
+        "en":  "goutte",
+        "jp":  "滴"
+    },
+    {
+        "reading":  "テツ,くろがね",
+        "en":  "fer",
+        "jp":  "鉄"
+    },
+    {
+        "reading":  "デン,テン,との,-どの",
+        "en":  "Monseigneur,hall,résidence,palais,temple,seigneur",
+        "jp":  "殿"
+    },
+    {
+        "reading":  "ト,ぬ.る,ぬ.り,まみ.れる",
+        "en":  "peinture,peindre,tartiner,barbouiller,enduire,recouvrir",
+        "jp":  "塗"
+    },
+    {
+        "reading":  "トウ,なかま,むら",
+        "en":  "parti politique,faction,clique",
+        "jp":  "党"
+    },
+    {
+        "reading":  "トウ,こお.る,こご.える,こご.る,い.てる,し.みる",
+        "en":  "gelé,congeler,réfrigérer",
+        "jp":  "凍"
+    },
+    {
+        "reading":  "トウ",
+        "en":  "pagode,tour,clocher",
+        "jp":  "塔"
+    },
+    {
+        "reading":  "トウ,しま",
+        "en":  "île",
+        "jp":  "島"
+    },
+    {
+        "reading":  "トウ,ゆ",
+        "en":  "eau chaude,bain,source chaude",
+        "jp":  "湯"
+    },
+    {
+        "reading":  "トウ,ひ,ほ-,ともしび,とも.す,あかり",
+        "en":  "lampe,lumière,compteur de lampes",
+        "jp":  "灯"
+    },
+    {
+        "reading":  "トウ,つつ",
+        "en":  "cylindre,tuyau,tube,canon (fusil),manche",
+        "jp":  "筒"
+    },
+    {
+        "reading":  "ドウ,みちび.く",
+        "en":  "directives,mener,guider,conduire",
+        "jp":  "導"
+    },
+    {
+        "reading":  "ドウ,わらべ",
+        "en":  "jeune,enfant",
+        "jp":  "童"
+    },
+    {
+        "reading":  "ドウ,あかがね",
+        "en":  "cuivre",
+        "jp":  "銅"
+    },
+    {
+        "reading":  "ドク",
+        "en":  "poison,virus,venin,germe,mal,blessure,méchanceté",
+        "jp":  "毒"
+    },
+    {
+        "reading":  "カイ,とど.ける,-とど.け,とど.く",
+        "en":  "remettre,livrer,parvenir,arriver,rapport,notification,transmettre",
+        "jp":  "届"
+    },
+    {
+        "reading":  "ドン,くも.る",
+        "en":  "temps couvert,se couvrir",
+        "jp":  "曇"
+    },
+    {
+        "reading":  "ドン,にぶ.い,にぶ.る,にぶ-,なま.る,なまく.ら",
+        "en":  "émoussé,lent,bête",
+        "jp":  "鈍"
+    },
+    {
+        "reading":  "ナン,やわ.らか,やわ.らかい",
+        "en":  "mou",
+        "jp":  "軟"
+    },
+    {
+        "reading":  "ニュウ,ちち,ち",
+        "en":  "lait,seins",
+        "jp":  "乳"
+    },
+    {
+        "reading":  "ネン,も.える,も.やす,も.す",
+        "en":  "brûler,flamber",
+        "jp":  "燃"
+    },
+    {
+        "reading":  "ノウ,なや.む,なや.ます,なや.ましい,なやみ",
+        "en":  "soucieux,ennuis,peine,détresse,maladie",
+        "jp":  "悩"
+    },
+    {
+        "reading":  "ノウ,こ.い",
+        "en":  "concentré,non dilué,épais,sombre",
+        "jp":  "濃"
+    },
+    {
+        "reading":  "ノウ,ドウ,のうずる",
+        "en":  "cerveau,mémoire",
+        "jp":  "脳"
+    },
+    {
+        "reading":  "ノウ",
+        "en":  "agriculture,fermier",
+        "jp":  "農"
+    },
+    {
+        "reading":  "ハ,なみ",
+        "en":  "onde,vague,Pologne",
+        "jp":  "波"
+    },
+    {
+        "reading":  "ハイ,おが.む,おろが.む",
+        "en":  "culte,adorer,prier",
+        "jp":  "拝"
+    },
+    {
+        "reading":  "バイ",
+        "en":  "double,deux fois,fois,plier (en 2)",
+        "jp":  "倍"
+    },
+    {
+        "reading":  "ハク,と.まる,と.める",
+        "en":  "passer la nuit,loger,séjour,être au mouillage",
+        "jp":  "泊"
+    },
+    {
+        "reading":  "ハク,うす.い,うす-,-うす,うす.める,うす.まる,うす.らぐ,うす.ら-,うす.れる,すすき",
+        "en":  "fin,dilué,léger (thé)",
+        "jp":  "薄"
+    },
+    {
+        "reading":  "バク,は.ぜる",
+        "en":  "bombe,faire éclater,exploser,craquer",
+        "jp":  "爆"
+    },
+    {
+        "reading":  "バク,むぎ",
+        "en":  "orge,blé",
+        "jp":  "麦"
+    },
+    {
+        "reading":  "キ,はだ",
+        "en":  "épiderme,texture,grain,corps",
+        "jp":  "肌"
+    },
+    {
+        "reading":  "ハン,バン,いた",
+        "en":  "planche,plaque,panneau,stade",
+        "jp":  "板"
+    },
+    {
+        "reading":  "ハン",
+        "en":  "édition,bloc d\u0027impression,plaque d\u0027impression,impression,version",
+        "jp":  "版"
+    },
+    {
+        "reading":  "ハン",
+        "en":  "global,général,transporter,transporteur",
+        "jp":  "般"
+    },
+    {
+        "reading":  "ハン",
+        "en":  "commercialisation,vente,commerce",
+        "jp":  "販"
+    },
+    {
+        "reading":  "ヒ,くら.べる",
+        "en":  "comparer,compétition,proportion,Philippines",
+        "jp":  "比"
+    },
+    {
+        "reading":  "ヒ,かわ",
+        "en":  "peau,cuir,fourrure,radical peau (no. 107)",
+        "jp":  "皮"
+    },
+    {
+        "reading":  "ヒ,こうむ.る,おお.う,かぶ.る,かぶ.せる",
+        "en":  "subir,couvrir,voile,ruminer (soucis),abri,mettre (vêtement),porter (sur la tête),être exposé (film),victime,souffrir",
+        "jp":  "被"
+    },
+    {
+        "reading":  "ビ,はな",
+        "en":  "nez,museau,groin",
+        "jp":  "鼻"
+    },
+    {
+        "reading":  "ヒツ,ひき",
+        "en":  "égal,tête,compteur de petits animaux,rouleau de tissu (= 2 tan = ~19m)",
+        "jp":  "匹"
+    },
+    {
+        "reading":  "ヒツ,ふで",
+        "en":  "pinceau,écriture",
+        "jp":  "筆"
+    },
+    {
+        "reading":  "ヒョウ,こおり,ひ,こお.る",
+        "en":  "glace,glaçon,grêle,geler,congeler",
+        "jp":  "氷"
+    },
+    {
+        "reading":  "ビョウ",
+        "en":  "seconde",
+        "jp":  "秒"
+    },
+    {
+        "reading":  "ビン,かめ",
+        "en":  "pot de fleurs,fiole,pot,pichet,cuve,urne",
+        "jp":  "瓶"
+    },
+    {
+        "reading":  "フ,ぬの",
+        "en":  "linge",
+        "jp":  "布"
+    },
+    {
+        "reading":  "フ,あまね.く,あまねし",
+        "en":  "universel,largement,généralement,Prusse",
+        "jp":  "普"
+    },
+    {
+        "reading":  "フ",
+        "en":  "marque,signe,compte,amulette,ticket　",
+        "jp":  "符"
+    },
+    {
+        "reading":  "フ,はだ",
+        "en":  "peau,corps,grain,texture,disposition",
+        "jp":  "膚"
+    },
+    {
+        "reading":  "ブ,ム,たけ,たけ.し",
+        "en":  "guerrier,militaire,chevalerie,armes",
+        "jp":  "武"
+    },
+    {
+        "reading":  "フウ,ホウ",
+        "en":  "sceller,fermeture",
+        "jp":  "封"
+    },
+    {
+        "reading":  "フク",
+        "en":  "vice-,copie,duplicata",
+        "jp":  "副"
+    },
+    {
+        "reading":  "フク,また",
+        "en":  "retourner,restaurer,reprendre",
+        "jp":  "復"
+    },
+    {
+        "reading":  "フク,はば",
+        "en":  "largeur,kakémono,tenture murale",
+        "jp":  "幅"
+    },
+    {
+        "reading":  "フク",
+        "en":  "duplication,copie,composé,multiple,compliqué",
+        "jp":  "複"
+    },
+    {
+        "reading":  "フツ,わ.く,わ.かす",
+        "en":  "bouillonner,bouillir,fermenter,exciter,élever",
+        "jp":  "沸"
+    },
+    {
+        "reading":  "ブツ,フツ,ほとけ",
+        "en":  "Bouddha,France,défunt",
+        "jp":  "仏"
+    },
+    {
+        "reading":  "フン,デシメートル,こ,こな",
+        "en":  "farine,poudre,poussière",
+        "jp":  "粉"
+    },
+    {
+        "reading":  "ヘイ,ヒョウ,つわもの",
+        "en":  "soldat,simple soldat,troupes,armée,guerre,stratégie,tactique",
+        "jp":  "兵"
+    },
+    {
+        "reading":  "ヘイ,ホウ,な.み,なみ,なら.べる,なら.ぶ,なら.びに",
+        "en":  "rangée,et,en outre,de plus,faire la queue,mettre en rang,rival,égal",
+        "jp":  "並"
+    },
+    {
+        "reading":  "ヘン,かた-,かた",
+        "en":  "simple face,feuille,radical côté droit (no. 91)",
+        "jp":  "片"
+    },
+    {
+        "reading":  "ヘン,あ.む,-あ.み",
+        "en":  "compilation,tricoter,natte,tresse,éditer,poème complet,partie d\u0027un livre",
+        "jp":  "編"
+    },
+    {
+        "reading":  "ヘン,あた.り,ほと.り,-べ",
+        "en":  "environs,frontière,voisinage",
+        "jp":  "辺"
+    },
+    {
+        "reading":  "ホ,おぎな.う",
+        "en":  "complément,supplément,améliorer,compenser,assistant,stagiaire",
+        "jp":  "補"
+    },
+    {
+        "reading":  "ボ,つの.る",
+        "en":  "recruter,mener une campagne,appel (contributions),enrôler,devenir violent",
+        "jp":  "募"
+    },
+    {
+        "reading":  "ホウ,つつ.む,くる.む",
+        "en":  "emballer,envelopper,recouvrir,cacher",
+        "jp":  "包"
+    },
+    {
+        "reading":  "ホウ,たから",
+        "en":  "trésor,richesses,objets de valeur",
+        "jp":  "宝"
+    },
+    {
+        "reading":  "ホウ,ブ,ゆた.か,とよ",
+        "en":  "abondance,somptueux,riche",
+        "jp":  "豊"
+    },
+    {
+        "reading":  "ボウ,モウ,ずきん,おお.う",
+        "en":  "casquette,couvre-chef",
+        "jp":  "帽"
+    },
+    {
+        "reading":  "ボウ,バク,あば.く,あば.れる",
+        "en":  "explosion,rage,agitation,force,violence,cruauté,outrage,dévoiler",
+        "jp":  "暴"
+    },
+    {
+        "reading":  "ボウ",
+        "en":  "bâton,baguette,canne,barre,perche,massue,ligne",
+        "jp":  "棒"
+    },
+    {
+        "reading":  "ボウ",
+        "en":  "commerce,négoce,échanges",
+        "jp":  "貿"
+    },
+    {
+        "reading":  "ボウ,ふせ.ぐ",
+        "en":  "prévenir (un danger),défendre,protéger,résister",
+        "jp":  "防"
+    },
+    {
+        "reading":  "マ,みが.く,す.る",
+        "en":  "polir,moudre,récurer,améliorer,brosser (dents)",
+        "jp":  "磨"
+    },
+    {
+        "reading":  "マイ,う.める,う.まる,う.もれる,うず.める,うず.まる,い.ける",
+        "en":  "enterrer,être rempli,enfoncé",
+        "jp":  "埋"
+    },
+    {
+        "reading":  "マイ,バイ",
+        "en":  "feuille de,compteur d\u0027objets plats",
+        "jp":  "枚"
+    },
+    {
+        "reading":  "メン,わた",
+        "en":  "coton",
+        "jp":  "綿"
+    },
+    {
+        "reading":  "モウ,け",
+        "en":  "pilosité,pelage,cheveux,plumage,duvet",
+        "jp":  "毛"
+    },
+    {
+        "reading":  "モン,かど,と",
+        "en":  "portail,compteur de canons",
+        "jp":  "門"
+    },
+    {
+        "reading":  "ユ,ユウ,あぶら",
+        "en":  "huile,gras",
+        "jp":  "油"
+    },
+    {
+        "reading":  "ユ,シュ",
+        "en":  "transporter,envoyer,être inférieur (perdre)",
+        "jp":  "輸"
+    },
+    {
+        "reading":  "ユウ,いさ.む",
+        "en":  "courage,être en verve,remonter le moral,bravoure,héroïsme",
+        "jp":  "勇"
+    },
+    {
+        "reading":  "ユウ",
+        "en":  "courrier,relais de poste",
+        "jp":  "郵"
+    },
+    {
+        "reading":  "ヨ,あず.ける,あず.かる",
+        "en":  "dépôt,garde,laisser avec,confier",
+        "jp":  "預"
+    },
+    {
+        "reading":  "ヨウ,おさな.い",
+        "en":  "enfance,tendre enfance",
+        "jp":  "幼"
+    },
+    {
+        "reading":  "ヨウ,と.ける,と.かす,と.く",
+        "en":  "fondre,dissoudre",
+        "jp":  "溶"
+    },
+    {
+        "reading":  "ヨウ,おど.る",
+        "en":  "danser,saut,bond,sautiller",
+        "jp":  "踊"
+    },
+    {
+        "reading":  "ヨク,あ.びる,あ.びせる",
+        "en":  "bain,dorer (au soleil),bénéficier de",
+        "jp":  "浴"
+    },
+    {
+        "reading":  "ヨク",
+        "en":  "suivant,celui d\u0027après",
+        "jp":  "翌"
+    },
+    {
+        "reading":  "ラク,から.む,から.まる",
+        "en":  "enlacer,entrelacer,s\u0027enrouler autour,s\u0027empêtrer dans",
+        "jp":  "絡"
+    },
+    {
+        "reading":  "ラン,ロン,みだ.れる,みだ.る,みだ.す,みだ,おさ.める,わた.る",
+        "en":  "tumulte,émeute,troubles,désordre,guerre,confusion",
+        "jp":  "乱"
+    },
+    {
+        "reading":  "ラン,たまご",
+        "en":  "oeuf,frai",
+        "jp":  "卵"
+    },
+    {
+        "reading":  "リ,うら",
+        "en":  "arrière,revers,verso,intérieur,semelle,paume,envers,doublure,mauvais côté",
+        "jp":  "裏"
+    },
+    {
+        "reading":  "リク,ロク,おか",
+        "en":  "continent,six",
+        "jp":  "陸"
+    },
+    {
+        "reading":  "リツ,リチ,レツ",
+        "en":  "rythme,ordonner,loi,régulation,contrôle,jauge",
+        "jp":  "律"
+    },
+    {
+        "reading":  "リャク,ほぼ,はぶ.く,おか.す,おさ.める,はかりごと,はか.る",
+        "en":  "abréviation,omission,résumé,raccourcir,capture,pillage",
+        "jp":  "略"
+    },
+    {
+        "reading":  "リュウ,つぶ",
+        "en":  "grain,goutte,compteur de particules",
+        "jp":  "粒"
+    },
+    {
+        "reading":  "リョウ",
+        "en":  "achevé,fini",
+        "jp":  "了"
+    },
+    {
+        "reading":  "リョウ,すず.しい,すず.む,すず.やか,うす.い,ひや.す,まことに",
+        "en":  "rafraîchissant,frais",
+        "jp":  "涼"
+    },
+    {
+        "reading":  "リョウ",
+        "en":  "soins,traitement",
+        "jp":  "療"
+    },
+    {
+        "reading":  "リョウ,はか.る",
+        "en":  "quantité,mesure,poids,étudier (situation),estimation,conjecture",
+        "jp":  "量"
+    },
+    {
+        "reading":  "リョウ,えり",
+        "en":  "domaine,juridiction,territoire,fief",
+        "jp":  "領"
+    },
+    {
+        "reading":  "リョク,ロク,みどり",
+        "en":  "vert",
+        "jp":  "緑"
+    },
+    {
+        "reading":  "リン,はやし",
+        "en":  "bois (petite forêt),bois",
+        "jp":  "林"
+    },
+    {
+        "reading":  "リン,わ",
+        "en":  "roue,anneau,cercle,maillon,boucle,compteur de roues ou fleurs",
+        "jp":  "輪"
+    },
+    {
+        "reading":  "ルイ,レイ,なみだ",
+        "en":  "larme,compassion",
+        "jp":  "涙"
+    },
+    {
+        "reading":  "レイ",
+        "en":  "ordre,anciennes lois,décret",
+        "jp":  "令"
+    },
+    {
+        "reading":  "レイ,ぜろ,こぼ.す,こぼ.れる",
+        "en":  "zéro,se répandre,déborder,rien,code",
+        "jp":  "零"
+    },
+    {
+        "reading":  "レイ,よわい,とし",
+        "en":  "âge",
+        "jp":  "齢"
+    },
+    {
+        "reading":  "レキ,レッキ",
+        "en":  "historique,curriculum,continuation,passage du temps",
+        "jp":  "歴"
+    },
+    {
+        "reading":  "レン,こ.う,こい,こい.しい",
+        "en":  "chérir,amour,idylle,languir,manquer",
+        "jp":  "恋"
+    },
+    {
+        "reading":  "レン,ね.る,ね.り",
+        "en":  "pratiquer,lustrer,s\u0027exercer,s\u0027entraîner,perfectionner,peaufiner",
+        "jp":  "練"
+    },
+    {
+        "reading":  "ロク,しる.す,と.る",
+        "en":  "enregistrer",
+        "jp":  "録"
+    },
+    {
+        "reading":  "ワン,いりえ",
+        "en":  "golfe,baie,crique",
+        "jp":  "湾"
+    },
+    {
+        "reading":  "ワン,うで",
+        "en":  "bras,aptitude,talent",
+        "jp":  "腕"
+    }
+]

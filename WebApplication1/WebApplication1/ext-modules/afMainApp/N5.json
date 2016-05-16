@@ -1,0 +1,402 @@
+﻿[
+    {
+        "reading":  "イチ,イツ,ひと-,ひと.つ",
+        "en":  "un,radical un (no. 1)",
+        "jp":  "一"
+    },
+    {
+        "reading":  "ウ,ユウ,みぎ",
+        "en":  "droite",
+        "jp":  "右"
+    },
+    {
+        "reading":  "ウ,あめ,あま-,-さめ",
+        "en":  "pluie",
+        "jp":  "雨"
+    },
+    {
+        "reading":  "エン,まる.い,まる,まど,まど.か,まろ.やか",
+        "en":  "cercle,yen,rond",
+        "jp":  "円"
+    },
+    {
+        "reading":  "カ,ゲ,した,しも,もと,さ.げる,さ.がる,くだ.る,くだ.り,くだ.す,-くだ.す,くだ.さる,お.ろす,お.りる",
+        "en":  "au-dessous,descendre,bas,donner (vous me donnez),inférieur",
+        "jp":  "下"
+    },
+    {
+        "reading":  "カ,なに,なん,なに-,なん-",
+        "en":  "quoi",
+        "jp":  "何"
+    },
+    {
+        "reading":  "カ,ひ,-び,ほ-",
+        "en":  "feu",
+        "jp":  "火"
+    },
+    {
+        "reading":  "ガイ,ゲ,そと,ほか,はず.す,はず.れる,と-",
+        "en":  "extérieur",
+        "jp":  "外"
+    },
+    {
+        "reading":  "ガク,まな.ぶ",
+        "en":  "étudier,apprendre,science",
+        "jp":  "学"
+    },
+    {
+        "reading":  "カン,ケン,あいだ,ま,あい",
+        "en":  "intervalle,espace",
+        "jp":  "間"
+    },
+    {
+        "reading":  "キ,ケ,いき",
+        "en":  "esprit,air,atmosphère,humeur",
+        "jp":  "気"
+    },
+    {
+        "reading":  "キュウ,やす.む,やす.まる,やす.める",
+        "en":  "repos,jour de repos,se coucher,dormir",
+        "jp":  "休"
+    },
+    {
+        "reading":  "キン,コン,ゴン,かね,かな-,-がね",
+        "en":  "or",
+        "jp":  "金"
+    },
+    {
+        "reading":  "キュウ,ク,ここの,ここの.つ",
+        "en":  "neuf",
+        "jp":  "九"
+    },
+    {
+        "reading":  "ゲツ,ガツ,つき",
+        "en":  "lune,mois",
+        "jp":  "月"
+    },
+    {
+        "reading":  "ケン,み.る,み.える,み.せる",
+        "en":  "regarder,voir,visible,espoirs,chances,idée,opinion",
+        "jp":  "見"
+    },
+    {
+        "reading":  "ゴ,いつ,いつ.つ",
+        "en":  "cinq",
+        "jp":  "五"
+    },
+    {
+        "reading":  "ゴ,うま",
+        "en":  "midi,signe de la 7ème branche terrestre,signe du Cheval (zodiaque),11 h à 13 h,Sud (180°)",
+        "jp":  "午"
+    },
+    {
+        "reading":  "ゴ,コウ,のち,うし.ろ,うしろ,あと,おく.れる",
+        "en":  "après,derrière,plus tard",
+        "jp":  "後"
+    },
+    {
+        "reading":  "ゴ,かた.る,かた.らう",
+        "en":  "langage,mot,raconter",
+        "jp":  "語"
+    },
+    {
+        "reading":  "コウ,キョウ",
+        "en":  "école,examen,impression,épreuve,correction",
+        "jp":  "校"
+    },
+    {
+        "reading":  "コウ,ギョウ,アン,い.く,ゆ.く,-ゆ.き,-ゆき,-い.き,-いき,おこな.う,おこ.なう",
+        "en":  "aller,voyage",
+        "jp":  "行"
+    },
+    {
+        "reading":  "コウ,たか.い,たか,-だか,たか.まる,たか.める",
+        "en":  "haut,élevé,grand,cher",
+        "jp":  "高"
+    },
+    {
+        "reading":  "コク,くに",
+        "en":  "pays",
+        "jp":  "国"
+    },
+    {
+        "reading":  "コン,キン,いま",
+        "en":  "maintenant",
+        "jp":  "今"
+    },
+    {
+        "reading":  "サ,シャ,ひだり",
+        "en":  "gauche",
+        "jp":  "左"
+    },
+    {
+        "reading":  "サン,ゾウ,み,み.つ,みっ.つ",
+        "en":  "trois",
+        "jp":  "三"
+    },
+    {
+        "reading":  "サン,セン,やま",
+        "en":  "montagne",
+        "jp":  "山"
+    },
+    {
+        "reading":  "シ,よ,よ.つ,よっ.つ,よん",
+        "en":  "quatre",
+        "jp":  "四"
+    },
+    {
+        "reading":  "シ,ス,ツ,こ,-こ,ね",
+        "en":  "enfant,signe de la 1ère branche terrestre,signe du Rat (zodiaque),23 h à 01 h,Nord (0°)",
+        "jp":  "子"
+    },
+    {
+        "reading":  "ジ,とき,-どき",
+        "en":  "temps,heure",
+        "jp":  "時"
+    },
+    {
+        "reading":  "シチ,なな,なな.つ,なの",
+        "en":  "sept",
+        "jp":  "七"
+    },
+    {
+        "reading":  "シャ,くるま",
+        "en":  "véhicule,voiture",
+        "jp":  "車"
+    },
+    {
+        "reading":  "ジュウ,ジッ,ジュッ,とお,と",
+        "en":  "dix",
+        "jp":  "十"
+    },
+    {
+        "reading":  "シュツ,スイ,で.る,-で,だ.す,-だ.す,い.でる,い.だす",
+        "en":  "sortir,quitter,présence",
+        "jp":  "出"
+    },
+    {
+        "reading":  "ショ,か.く,-が.き,-がき",
+        "en":  "écrire",
+        "jp":  "書"
+    },
+    {
+        "reading":  "ジョ,ニョ,ニョウ,おんな,め",
+        "en":  "femme,féminin",
+        "jp":  "女"
+    },
+    {
+        "reading":  "ショウ,ちい.さい,こ-,お-,さ-",
+        "en":  "petit",
+        "jp":  "小"
+    },
+    {
+        "reading":  "ジョウ,ショウ,シャン,うえ,-うえ,うわ-,かみ,あ.げる,-あ.げる,あ.がる,-あ.がる,あ.がり,-あ.がり,のぼ.る,のぼ.り,のぼ.せる,のぼ.す,たてまつ.る",
+        "en":  "au-dessus,haut,monter,donner (je te donne)",
+        "jp":  "上"
+    },
+    {
+        "reading":  "ショク,ジキ,く.う,く.らう,た.べる,は.む",
+        "en":  "manger,nourriture",
+        "jp":  "食"
+    },
+    {
+        "reading":  "ジン,ニン,ひと,-り,-と",
+        "en":  "être humain,personne",
+        "jp":  "人"
+    },
+    {
+        "reading":  "スイ,みず,みず-",
+        "en":  "eau",
+        "jp":  "水"
+    },
+    {
+        "reading":  "セイ,ショウ,い.きる,い.かす,い.ける,う.まれる,うま.れる,う.まれ,うまれ,う.む,お.う,は.える,は.やす,き,なま,なま-,な.る,な.す,む.す,-う",
+        "en":  "vie,naissance,authentique,cru",
+        "jp":  "生"
+    },
+    {
+        "reading":  "セイ,サイ,ス,にし",
+        "en":  "Ouest,Espagne",
+        "jp":  "西"
+    },
+    {
+        "reading":  "セン,さき,ま.ず",
+        "en":  "avant,devant,précédent,futur,antériorité",
+        "jp":  "先"
+    },
+    {
+        "reading":  "セン,ち",
+        "en":  "mille",
+        "jp":  "千"
+    },
+    {
+        "reading":  "セン,かわ",
+        "en":  "rivière,fleuve,radical rivière (no. 47)",
+        "jp":  "川"
+    },
+    {
+        "reading":  "ゼン,まえ,-まえ",
+        "en":  "devant,avant",
+        "jp":  "前"
+    },
+    {
+        "reading":  "ダイ,タイ,おお-,おお.きい,-おお.いに",
+        "en":  "grand",
+        "jp":  "大"
+    },
+    {
+        "reading":  "ダン,ナン,おとこ,お",
+        "en":  "homme,mâle",
+        "jp":  "男"
+    },
+    {
+        "reading":  "チュウ,なか,うち,あた.る",
+        "en":  "dans,dedans,à l\u0027intérieur,milieu,centre,moyenne",
+        "jp":  "中"
+    },
+    {
+        "reading":  "チョウ,なが.い,おさ",
+        "en":  "long,chef",
+        "jp":  "長"
+    },
+    {
+        "reading":  "テン,あまつ,あめ,あま-",
+        "en":  "cieux,ciel,impérial",
+        "jp":  "天"
+    },
+    {
+        "reading":  "デン",
+        "en":  "électricité",
+        "jp":  "電"
+    },
+    {
+        "reading":  "ド,ト,つち",
+        "en":  "sol,terre,terrain,Turquie",
+        "jp":  "土"
+    },
+    {
+        "reading":  "トウ,ひがし",
+        "en":  "Est",
+        "jp":  "東"
+    },
+    {
+        "reading":  "ドク,トク,トウ,よ.む,-よ.み",
+        "en":  "lire",
+        "jp":  "読"
+    },
+    {
+        "reading":  "ナン,ナ,みなみ",
+        "en":  "sud",
+        "jp":  "南"
+    },
+    {
+        "reading":  "ニ,ジ,ふた,ふた.つ,ふたたび",
+        "en":  "deux,radical deux (no. 2)",
+        "jp":  "二"
+    },
+    {
+        "reading":  "ニチ,ジツ,ひ,-び,-か",
+        "en":  "jour,soleil,Japon,compteur de jours",
+        "jp":  "日"
+    },
+    {
+        "reading":  "ニュウ,ジュ,い.る,-い.る,-い.り,い.れる,-い.れ,はい.る",
+        "en":  "entrer,insérer",
+        "jp":  "入"
+    },
+    {
+        "reading":  "ネン,とし",
+        "en":  "année,compteur d\u0027années",
+        "jp":  "年"
+    },
+    {
+        "reading":  "ハク,ビャク,しろ,しら-,しろ.い",
+        "en":  "blanc",
+        "jp":  "白"
+    },
+    {
+        "reading":  "ハチ,や,や.つ,やっ.つ,よう",
+        "en":  "huit,radical huit (no. 12)",
+        "jp":  "八"
+    },
+    {
+        "reading":  "ハン,なか.ば",
+        "en":  "moitié,demi,milieu,nombre impair",
+        "jp":  "半"
+    },
+    {
+        "reading":  "ヒャク,ビャク,もも",
+        "en":  "cent",
+        "jp":  "百"
+    },
+    {
+        "reading":  "フ,ちち",
+        "en":  "père",
+        "jp":  "父"
+    },
+    {
+        "reading":  "ブン,フン,ブ,わ.ける,わ.け,わ.かれる,わ.かる,わ.かつ",
+        "en":  "portion,minute,section,part,degré,son lot dans la vie,comprendre,savoir,devoir,taux,1%,chances,bu = 1/100 de shaku = 3.03 mm",
+        "jp":  "分"
+    },
+    {
+        "reading":  "ブン,モン,き.く,き.こえる",
+        "en":  "entendre,écouter,demander",
+        "jp":  "聞"
+    },
+    {
+        "reading":  "ボ,はは,も",
+        "en":  "maman,mère",
+        "jp":  "母"
+    },
+    {
+        "reading":  "ホク,きた",
+        "en":  "nord",
+        "jp":  "北"
+    },
+    {
+        "reading":  "ホン,もと",
+        "en":  "livre,présent,essentiel,origine,principal,réalité,vérité,compteur d\u0027objets allongés",
+        "jp":  "本"
+    },
+    {
+        "reading":  "マイ,ごと,-ごと.に",
+        "en":  "chaque",
+        "jp":  "毎"
+    },
+    {
+        "reading":  "マン,バン,よろず",
+        "en":  "myriade,10000",
+        "jp":  "万"
+    },
+    {
+        "reading":  "メイ,ミョウ,な,-な",
+        "en":  "nom,célèbre,fameux,réputation",
+        "jp":  "名"
+    },
+    {
+        "reading":  "ボク,モク,き,こ-",
+        "en":  "arbre,bois (matière)",
+        "jp":  "木"
+    },
+    {
+        "reading":  "ユウ,とも",
+        "en":  "ami",
+        "jp":  "友"
+    },
+    {
+        "reading":  "ライ,タイ,く.る,きた.る,きた.す,き.たす,き.たる,き,こ",
+        "en":  "venir,dû à,suivant,causer,devenir",
+        "jp":  "来"
+    },
+    {
+        "reading":  "ロク,リク,む,む.つ,むっ.つ,むい",
+        "en":  "six",
+        "jp":  "六"
+    },
+    {
+        "reading":  "ワ,はな.す,はなし",
+        "en":  "parler,histoire",
+        "jp":  "話"
+    }
+]

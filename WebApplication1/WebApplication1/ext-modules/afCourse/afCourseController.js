@@ -57,11 +57,11 @@ angular.module("afCourse").controller("afCourseLearnController",
                     $scope.$apply(function () {
                         if ($scope.courseData[$scope.currentStep].question == result.text.trim()) {
                             $scope.lastAnswer = "RIGHTY OH";
-                            $scope.userData.hiragana.push($scope.courseData[$scope.currentStep].question);
+                            $scope.userData[$routeParams.courseId].push($scope.courseData[$scope.currentStep].question);
                             dataService.saveData($scope.userData);
                             $scope.currentStep++;
                         } else {
-                            $scope.lastAnswer = "YOU SUCK, DO AGAIN";
+                            $scope.lastAnswer = "YOU SUCK, DO AGAIN, i guessed: " + result.text.trim();
                             //$scope.courseData.push($scope.courseData[$scope.currentStep]);
                         }
                     });

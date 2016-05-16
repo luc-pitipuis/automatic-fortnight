@@ -6,7 +6,9 @@ angular.module("afMainApp").service('dataService', function ($localStorage, $htt
     var defaultData = {
         hiragana : [
             "あ"
-        ]
+        ],
+        radicals : [],
+        N5 : []
     };
     
 
@@ -20,6 +22,7 @@ angular.module("afMainApp").service('dataService', function ($localStorage, $htt
 
     self.resetData = function () {
         $localStorage.$reset();
+        self.retrieveData();
     }
 
     self.getRawData = function (type) {
@@ -55,8 +58,8 @@ angular.module("afMainApp").service('dataService', function ($localStorage, $htt
                 return !(-1 !== userData.indexOf(item['jp']))
             });
             var Learn = [];
-            angular.forEach(shuffle(testData).slice(0, 5), function (line) {
-                this.push({ "question": line.jp, "choices": ['I KNOW!!', 'NO IDEA'], "answer": line.en });
+            angular.forEach(shuffle(testData).slice(0, 2), function (line) {
+                this.push({ "question": line.jp, "answer": line.en });
             }, Learn);
             return Learn;
         });

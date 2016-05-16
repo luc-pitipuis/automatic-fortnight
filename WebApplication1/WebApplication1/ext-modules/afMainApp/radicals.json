@@ -1,0 +1,1197 @@
+﻿[
+    {
+        "reading":  "イチ,イツ,ひと-,ひと.つ",
+        "en":  "un,radical un (no. 1)",
+        "jp":  "一"
+    },
+    {
+        "reading":  "コン,シ,ジョ,ニョ,すす.む,しりぞ.く",
+        "en":  "number one,line,rod radical (no. 2)",
+        "jp":  "丨"
+    },
+    {
+        "reading":  "チュ",
+        "en":  "dot,tick or dot radical (no. 3)",
+        "jp":  "丶"
+    },
+    {
+        "reading":  "ヘツ,えい,よう",
+        "en":  "katakana no radical (no. 4)",
+        "jp":  "丿"
+    },
+    {
+        "reading":  "フツ,ブチ,ま.がる",
+        "en":  "stretch",
+        "jp":  "乀"
+    },
+    {
+        "reading":  "オツ,イツ,おと-,きのと",
+        "en":  "radical hameçon (no. 5),chic,signe du 2ème tronc céleste,dernier,second,étrange",
+        "jp":  "乙"
+    },
+    {
+        "reading":  "イン,オン,かく.す,かく.れる,かか.す,よ.る",
+        "en":  "hidden,mysterious,secret,to conceal,small,minute,fishhook radical variant (no. 5)",
+        "jp":  "乚"
+    },
+    {
+        "reading":  "ケツ,かぎ",
+        "en":  "feathered stick,barb radical (no. 6)",
+        "jp":  "亅"
+    },
+    {
+        "reading":  "ニ,ジ,ふた,ふた.つ,ふたたび",
+        "en":  "deux,radical deux (no. 2)",
+        "jp":  "二"
+    },
+    {
+        "reading":  "トウ",
+        "en":  "kettle lid radical (no. 8)",
+        "jp":  "亠"
+    },
+    {
+        "reading":  "ジン,ニン,ひと,-り,-と",
+        "en":  "être humain,personne",
+        "jp":  "人"
+    },
+    {
+        "reading":  "",
+        "en":  "radical number 9",
+        "jp":  "亻"
+    },
+    {
+        "reading":  "ジン,ニン,がい",
+        "en":  "legs radical (no. 10)",
+        "jp":  "儿"
+    },
+    {
+        "reading":  "ニュウ,ジュ,い.る,-い.る,-い.り,い.れる,-い.れ,はい.る",
+        "en":  "entrer,insérer",
+        "jp":  "入"
+    },
+    {
+        "reading":  "ハチ,や,や.つ,やっ.つ,よう",
+        "en":  "huit,radical huit (no. 12)",
+        "jp":  "八"
+    },
+    {
+        "reading":  "キョウ,ケイ",
+        "en":  "upside-down box radical (no. 13)",
+        "jp":  "冂"
+    },
+    {
+        "reading":  "ベキ",
+        "en":  "wa-shaped crown radical (no. 14)",
+        "jp":  "冖"
+    },
+    {
+        "reading":  "ヒョウ,こおり",
+        "en":  "two-stroke water radical or ice radical (no. 15)",
+        "jp":  "冫"
+    },
+    {
+        "reading":  "キ,きにょう",
+        "en":  "table,table enclosure,table or windy radical (no. 16)",
+        "jp":  "几"
+    },
+    {
+        "reading":  "カン",
+        "en":  "open box enclosure,open box radical (no. 17)",
+        "jp":  "凵"
+    },
+    {
+        "reading":  "トウ,かたな,そり",
+        "en":  "épée,sabre,couteau",
+        "jp":  "刀"
+    },
+    {
+        "reading":  "トウ",
+        "en":  "knife,standing sword radical (no. 18)",
+        "jp":  "刂"
+    },
+    {
+        "reading":  "リョク,リキ,リイ,ちから",
+        "en":  "force,fort,puissance,tension,tenir le coup,s\u0027efforcer,employer (force)",
+        "jp":  "力"
+    },
+    {
+        "reading":  "ホウ,つつ.む",
+        "en":  "wrapping enclosure,wrapping radical (no. 20)",
+        "jp":  "勹"
+    },
+    {
+        "reading":  "ヒ,さじ",
+        "en":  "cuiller,radical cuiller ou katakana hi (no. 21)",
+        "jp":  "匕"
+    },
+    {
+        "reading":  "ホウ",
+        "en":  "box-on-side enclosure radical (no. 22)",
+        "jp":  "匚"
+    },
+    {
+        "reading":  "ケイ",
+        "en":  "hiding enclosure radical (no. 23)",
+        "jp":  "匸"
+    },
+    {
+        "reading":  "ジュウ,ジッ,ジュッ,とお,と",
+        "en":  "dix",
+        "jp":  "十"
+    },
+    {
+        "reading":  "ボク,うらな.う,うらない",
+        "en":  "divining,fortune-telling,divination or katakana to radical (no. 25)",
+        "jp":  "卜"
+    },
+    {
+        "reading":  "セツ,わりふ",
+        "en":  "seal radical (no. 26)",
+        "jp":  "卩"
+    },
+    {
+        "reading":  "カン,かりがね",
+        "en":  "wild goose,trailing cliff radical (no. 27)",
+        "jp":  "厂"
+    },
+    {
+        "reading":  "シ,ボウ,ム,わたくし,ござ.る",
+        "en":  "I,myself,katakana mu radical (no. 28)",
+        "jp":  "厶"
+    },
+    {
+        "reading":  "ユウ,また,また-,また.の-",
+        "en":  "ou encore,de plus,d\u0027un autre côté",
+        "jp":  "又"
+    },
+    {
+        "reading":  "コウ,ク,くち",
+        "en":  "bouche",
+        "jp":  "口"
+    },
+    {
+        "reading":  "イ,コク",
+        "en":  "box,box or enclosure radical (no. 31)",
+        "jp":  "囗"
+    },
+    {
+        "reading":  "ド,ト,つち",
+        "en":  "sol,terre,terrain,Turquie",
+        "jp":  "土"
+    },
+    {
+        "reading":  "シ,さむらい",
+        "en":  "gentilhomme,samouraï,radical samouraï (no. 33)",
+        "jp":  "士"
+    },
+    {
+        "reading":  "チ,しゅう",
+        "en":  "late,delayed,winter radical (no. 34)",
+        "jp":  "夂"
+    },
+    {
+        "reading":  "スイ,ゆき",
+        "en":  "winter variant radical (no. 34)",
+        "jp":  "夊"
+    },
+    {
+        "reading":  "セキ,ゆう",
+        "en":  "soirée",
+        "jp":  "夕"
+    },
+    {
+        "reading":  "ダイ,タイ,おお-,おお.きい,-おお.いに",
+        "en":  "grand",
+        "jp":  "大"
+    },
+    {
+        "reading":  "ジョ,ニョ,ニョウ,おんな,め",
+        "en":  "femme,féminin",
+        "jp":  "女"
+    },
+    {
+        "reading":  "シ,ス,ツ,こ,-こ,ね",
+        "en":  "enfant,signe de la 1ère branche terrestre,signe du Rat (zodiaque),23 h à 01 h,Nord (0°)",
+        "jp":  "子"
+    },
+    {
+        "reading":  "ベン,メン",
+        "en":  "shaped crown,katakana u radical (no. 40)",
+        "jp":  "宀"
+    },
+    {
+        "reading":  "スン",
+        "en":  "dimension,un peu,sun = 3,03 cm (1/10 de shaku)",
+        "jp":  "寸"
+    },
+    {
+        "reading":  "ショウ,ちい.さい,こ-,お-,さ-",
+        "en":  "petit",
+        "jp":  "小"
+    },
+    {
+        "reading":  "オウ",
+        "en":  "crooked-big radical (no. 43)",
+        "jp":  "尢"
+    },
+    {
+        "reading":  "オウ,まげあし",
+        "en":  "lame",
+        "jp":  "尣"
+    },
+    {
+        "reading":  "シ,かたしろ",
+        "en":  "corpse,remains,flag radical (no. 44)",
+        "jp":  "尸"
+    },
+    {
+        "reading":  "テツ,サ,ひだりて",
+        "en":  "left hand,old grass radical (no. 45)",
+        "jp":  "屮"
+    },
+    {
+        "reading":  "サン,セン,やま",
+        "en":  "montagne",
+        "jp":  "山"
+    },
+    {
+        "reading":  "セン,かわ",
+        "en":  "rivière,fleuve,radical rivière (no. 47)",
+        "jp":  "川"
+    },
+    {
+        "reading":  "セン,かわ",
+        "en":  "curving river radical (no.47)",
+        "jp":  "巛"
+    },
+    {
+        "reading":  "コウ,ク,グ",
+        "en":  "ingénierie,industrie,construction,radical katakana E (no. 48)",
+        "jp":  "工"
+    },
+    {
+        "reading":  "コ,キ,おのれ,つちのと,な",
+        "en":  "soi,serpent,signe du 6è tronc céleste",
+        "jp":  "己"
+    },
+    {
+        "reading":  "キン,フク,おお.い,ちきり,きれ",
+        "en":  "towel,hanging scroll,width,cloth radical (no. 50)",
+        "jp":  "巾"
+    },
+    {
+        "reading":  "カン,ほ.す,ほ.し-,-ぼ.し,ひ.る",
+        "en":  "sec,dessécher",
+        "jp":  "干"
+    },
+    {
+        "reading":  "ヨウ,ちいさい",
+        "en":  "short thread radical (no. 52)",
+        "jp":  "幺"
+    },
+    {
+        "reading":  "ゲン",
+        "en":  "dotted cliff radical (no. 53)",
+        "jp":  "广"
+    },
+    {
+        "reading":  "イン",
+        "en":  "long stride or stretching radical (no. 54)",
+        "jp":  "廴"
+    },
+    {
+        "reading":  "キョウ,ク,にじゅう",
+        "en":  "twenty,twenty or letter H radical (no. 55)",
+        "jp":  "廾"
+    },
+    {
+        "reading":  "ヨク,いぐるみ",
+        "en":  "piling,ceremony radical (no. 56)",
+        "jp":  "弋"
+    },
+    {
+        "reading":  "キュウ,ゆみ",
+        "en":  "arc,archet",
+        "jp":  "弓"
+    },
+    {
+        "reading":  "ケイ",
+        "en":  "snout,pig\u0027s head radical (no. 58)",
+        "jp":  "彐"
+    },
+    {
+        "reading":  "ケイ",
+        "en":  "pig\u0027s head radical variant (no. 58)",
+        "jp":  "彑"
+    },
+    {
+        "reading":  "サン,セン",
+        "en":  "three,hair ornament,short hair or fur radical (no. 59)",
+        "jp":  "彡"
+    },
+    {
+        "reading":  "テキ,たたず.む",
+        "en":  "stop,linger,loiter,going man radical (no. 60)",
+        "jp":  "彳"
+    },
+    {
+        "reading":  "シン,こころ,-ごころ",
+        "en":  "coeur,esprit,radical coeur (no. 61)",
+        "jp":  "心"
+    },
+    {
+        "reading":  "シン,こころ",
+        "en":  "heart,standing heart radical variant (no. 61)",
+        "jp":  "忄"
+    },
+    {
+        "reading":  "カ,ほこ,ほこづくり",
+        "en":  "halberd,arms,festival car,float,tasselled spear radical (no. 62)",
+        "jp":  "戈"
+    },
+    {
+        "reading":  "コ,と",
+        "en":  "porte,compteur de maisons,radical porte (no 63)",
+        "jp":  "戸"
+    },
+    {
+        "reading":  "シュ,ズ,て,て-,-て,た-",
+        "en":  "main",
+        "jp":  "手"
+    },
+    {
+        "reading":  "シュ",
+        "en":  "hand,hand radical (no. 64)",
+        "jp":  "扌"
+    },
+    {
+        "reading":  "シ,ささ.える,つか.える,か.う",
+        "en":  "soutien,support,branche,filiale,succursale,radical branche (no. 65)",
+        "jp":  "支"
+    },
+    {
+        "reading":  "ホク",
+        "en":  "strike,hit,folding chair radical (no. 66)",
+        "jp":  "攴"
+    },
+    {
+        "reading":  "ホク",
+        "en":  "strike,hit,folding chair radical variant (no. 66)",
+        "jp":  "攵"
+    },
+    {
+        "reading":  "ブン,モン,ふみ,あや",
+        "en":  "phrase,littérature,style,art,décoration,figure (de style),plan,radical littéraire (no. 67)",
+        "jp":  "文"
+    },
+    {
+        "reading":  "ト,トウ",
+        "en":  "Grande Ourse,tonnelet de saké,to (18,039 litres),radical points et croix (no. 68)",
+        "jp":  "斗"
+    },
+    {
+        "reading":  "キン",
+        "en":  "hache,kin = 1/160 monme = 600 grammes,rosse,compteur de pains",
+        "jp":  "斤"
+    },
+    {
+        "reading":  "ホウ,かた,-かた,-がた",
+        "en":  "direction,personne,alternative",
+        "jp":  "方"
+    },
+    {
+        "reading":  "ブ,ム,なし,ない",
+        "en":  "nothing,not exist,crooked heaven radical (no.71)",
+        "jp":  "无"
+    },
+    {
+        "reading":  "キ,ケ,む,なし",
+        "en":  "sob,choke,crooked heaven radical variant (no.71)",
+        "jp":  "旡"
+    },
+    {
+        "reading":  "ニチ,ジツ,ひ,-び,-か",
+        "en":  "jour,soleil,Japon,compteur de jours",
+        "jp":  "日"
+    },
+    {
+        "reading":  "エツ,いわ.く,のたま.う,のたま.わく,ここに",
+        "en":  "dixit,selon,raison,prétexte,histoire,passé,radical soleil plat (no. 73)",
+        "jp":  "曰"
+    },
+    {
+        "reading":  "ゲツ,ガツ,つき",
+        "en":  "lune,mois",
+        "jp":  "月"
+    },
+    {
+        "reading":  "ボク,モク,き,こ-",
+        "en":  "arbre,bois (matière)",
+        "jp":  "木"
+    },
+    {
+        "reading":  "ケツ,ケン,か.ける,か.く",
+        "en":  "manquer,lacune,rater,radical bâillement (no. 76)",
+        "jp":  "欠"
+    },
+    {
+        "reading":  "シ,と.まる,-ど.まり,と.める,-と.める,-ど.め,とど.める,とど.め,とど.まる,や.める,や.む,-や.む,よ.す,-さ.す,-さ.し",
+        "en":  "arrêter,cesser",
+        "jp":  "止"
+    },
+    {
+        "reading":  "ガツ,ガチ,タイ",
+        "en":  "bare bone,bad,wrong,death radical (n. 78)",
+        "jp":  "歹"
+    },
+    {
+        "reading":  "シュ,また,ほこ",
+        "en":  "pike,windy-again radical (no. 79)",
+        "jp":  "殳"
+    },
+    {
+        "reading":  "ブ,ム,はは,ぼ,ない,なか.れ",
+        "en":  "do not,must not,be not,mother radical (no. 80)",
+        "jp":  "毋"
+    },
+    {
+        "reading":  "ヒ,くら.べる",
+        "en":  "comparer,compétition,proportion,Philippines",
+        "jp":  "比"
+    },
+    {
+        "reading":  "モウ,け",
+        "en":  "pilosité,pelage,cheveux,plumage,duvet",
+        "jp":  "毛"
+    },
+    {
+        "reading":  "シ,うじ,-うじ",
+        "en":  "nom de famille,nom,clan,Monsieur",
+        "jp":  "氏"
+    },
+    {
+        "reading":  "キ,ケ,いき",
+        "en":  "spirit,steam radical (no. 84)",
+        "jp":  "气"
+    },
+    {
+        "reading":  "スイ,みず,みず-",
+        "en":  "eau",
+        "jp":  "水"
+    },
+    {
+        "reading":  "さんずい",
+        "en":  "water,water radical (no. 85)",
+        "jp":  "氵"
+    },
+    {
+        "reading":  "カ,ひ,-び,ほ-",
+        "en":  "feu",
+        "jp":  "火"
+    },
+    {
+        "reading":  "ヒョウ,カ",
+        "en":  "fire,fire radical (no. 86)",
+        "jp":  "灬"
+    },
+    {
+        "reading":  "ソウ,つめ,つま-",
+        "en":  "ongle,griffe,serre,plectre",
+        "jp":  "爪"
+    },
+    {
+        "reading":  "",
+        "en":  "claw radical (no. 87)",
+        "jp":  "爫"
+    },
+    {
+        "reading":  "フ,ちち",
+        "en":  "père",
+        "jp":  "父"
+    },
+    {
+        "reading":  "コウ,ギョウ,まじ.わる",
+        "en":  "to mix with,to associate with,to join,double X radical (no. 89)",
+        "jp":  "爻"
+    },
+    {
+        "reading":  "ショウ,ソウ",
+        "en":  "left-side kata radical (no. 91)",
+        "jp":  "爿"
+    },
+    {
+        "reading":  "",
+        "en":  "half of tree trunk,rad. no. 90",
+        "jp":  "丬"
+    },
+    {
+        "reading":  "ヘン,かた-,かた",
+        "en":  "simple face,feuille,radical côté droit (no. 91)",
+        "jp":  "片"
+    },
+    {
+        "reading":  "ガ,ゲ,きば,は",
+        "en":  "croc,défense,radical défense d\u0027ivoire (no. 92)",
+        "jp":  "牙"
+    },
+    {
+        "reading":  "ギュウ,うし",
+        "en":  "vache",
+        "jp":  "牛"
+    },
+    {
+        "reading":  "",
+        "en":  "ox,cow,cow radical (no. 93)",
+        "jp":  "牜"
+    },
+    {
+        "reading":  "ケン,いぬ,いぬ-",
+        "en":  "chien",
+        "jp":  "犬"
+    },
+    {
+        "reading":  "",
+        "en":  "dog,dog radical (no. 94)",
+        "jp":  "犭"
+    },
+    {
+        "reading":  "ゲン,くろ,くろ.い",
+        "en":  "mystérieux,occulte,sombre",
+        "jp":  "玄"
+    },
+    {
+        "reading":  "ギョク,たま,たま-,-だま",
+        "en":  "bijoux,balle,boule",
+        "jp":  "玉"
+    },
+    {
+        "reading":  "オウ,-ノウ",
+        "en":  "roi,régner,magnat",
+        "jp":  "王"
+    },
+    {
+        "reading":  "カ,ケ,うり",
+        "en":  "melon",
+        "jp":  "瓜"
+    },
+    {
+        "reading":  "ガ,かわら,ぐらむ",
+        "en":  "tuile,gramme",
+        "jp":  "瓦"
+    },
+    {
+        "reading":  "カン,あま.い,あま.える,あま.やかす,うま.い",
+        "en":  "doux,enjôler,dorloter,être content,sucré",
+        "jp":  "甘"
+    },
+    {
+        "reading":  "セイ,ショウ,い.きる,い.かす,い.ける,う.まれる,うま.れる,う.まれ,うまれ,う.む,お.う,は.える,は.やす,き,なま,なま-,な.る,な.す,む.す,-う",
+        "en":  "vie,naissance,authentique,cru",
+        "jp":  "生"
+    },
+    {
+        "reading":  "ヨウ,もち.いる",
+        "en":  "se servir de,affaires,service,utiliser,employer",
+        "jp":  "用"
+    },
+    {
+        "reading":  "デン,た",
+        "en":  "rizière",
+        "jp":  "田"
+    },
+    {
+        "reading":  "ヒキ,ショ,ソ,ヒツ,あし",
+        "en":  "head,counter for animals",
+        "jp":  "疋"
+    },
+    {
+        "reading":  "ダク,ニャク,ソウ,ジョウ,シツ,や.む",
+        "en":  "trailing sickness,sick radical (no. 104)",
+        "jp":  "疒"
+    },
+    {
+        "reading":  "ハツ",
+        "en":  "dotted tent radical (no. 105)",
+        "jp":  "癶"
+    },
+    {
+        "reading":  "ハク,ビャク,しろ,しら-,しろ.い",
+        "en":  "blanc",
+        "jp":  "白"
+    },
+    {
+        "reading":  "ヒ,かわ",
+        "en":  "peau,cuir,fourrure,radical peau (no. 107)",
+        "jp":  "皮"
+    },
+    {
+        "reading":  "ベイ,さら",
+        "en":  "assiette,plat,portion",
+        "jp":  "皿"
+    },
+    {
+        "reading":  "モク,ボク,め,-め,ま-",
+        "en":  "oeil,regard,aperçu,numérateur ordinal,expérience,classe,faveur,pièce (Go)",
+        "jp":  "目"
+    },
+    {
+        "reading":  "ム,ボウ,ほこ",
+        "en":  "hallebarde,armes,char de festival",
+        "jp":  "矛"
+    },
+    {
+        "reading":  "シ,や",
+        "en":  "fléchette,flèche",
+        "jp":  "矢"
+    },
+    {
+        "reading":  "セキ,シャク,コク,いし",
+        "en":  "pierre",
+        "jp":  "石"
+    },
+    {
+        "reading":  "ジ,シ,しめ.す",
+        "en":  "montrer,indiquer,signaler,exprimer,exposer",
+        "jp":  "示"
+    },
+    {
+        "reading":  "シ",
+        "en":  "cult,showing radical (no. 113)",
+        "jp":  "礻"
+    },
+    {
+        "reading":  "ジュウ,ニュ,あしあと",
+        "en":  "rump,footprint radical (no. 114)",
+        "jp":  "禸"
+    },
+    {
+        "reading":  "カ,いね",
+        "en":  "two-branch tree radical (no. 115)",
+        "jp":  "禾"
+    },
+    {
+        "reading":  "ケツ,あな",
+        "en":  "trou,orifice,fente,grotte,tanière",
+        "jp":  "穴"
+    },
+    {
+        "reading":  "リツ,リュウ,リットル,た.つ,-た.つ,た.ち-,た.てる,-た.てる,た.て-,たて-,-た.て,-だ.て,-だ.てる",
+        "en":  "debout",
+        "jp":  "立"
+    },
+    {
+        "reading":  "チク,たけ",
+        "en":  "bambou",
+        "jp":  "竹"
+    },
+    {
+        "reading":  "ベイ,マイ,メエトル,こめ,よね",
+        "en":  "grain de riz,Amérique,un mètre",
+        "jp":  "米"
+    },
+    {
+        "reading":  "シ,いと",
+        "en":  "fil",
+        "jp":  "糸"
+    },
+    {
+        "reading":  "カン,かま",
+        "en":  "boîte de conserve,récipient,radical jarre (no. 121)",
+        "jp":  "缶"
+    },
+    {
+        "reading":  "モウ,ボウ,あみ",
+        "en":  "net,net or net crown radical (no. 122)",
+        "jp":  "网"
+    },
+    {
+        "reading":  "モウ,ボウ,あみがしら,よこめ",
+        "en":  "net radical variant (no. 122)",
+        "jp":  "罒"
+    },
+    {
+        "reading":  "ヨウ,ひつじ",
+        "en":  "mouton",
+        "jp":  "羊"
+    },
+    {
+        "reading":  "ウ,は,わ,はね",
+        "en":  "plume,compteur d\u0027oiseaux, lapins",
+        "jp":  "羽"
+    },
+    {
+        "reading":  "ロウ,お.いる,ふ.ける",
+        "en":  "vieillard,âgé,vieillir",
+        "jp":  "老"
+    },
+    {
+        "reading":  "ジ,ニ,しこ.うして,しか.して,しか.も,しか.れども,すなわち,なんじ,しかるに",
+        "en":  "and yet,and then,but,however,nevertheless",
+        "jp":  "而"
+    },
+    {
+        "reading":  "ライ,ルイ,き,く,すき",
+        "en":  "come,plough,three-branch tree radical (no. 127)",
+        "jp":  "耒"
+    },
+    {
+        "reading":  "ジ,みみ",
+        "en":  "oreille",
+        "jp":  "耳"
+    },
+    {
+        "reading":  "イチ,イツ,ふで,ここに",
+        "en":  "brush,finally,self,relate,follow,here,fast,writing brush radical (no. 129)",
+        "jp":  "聿"
+    },
+    {
+        "reading":  "ニク,しし",
+        "en":  "chair,viande",
+        "jp":  "肉"
+    },
+    {
+        "reading":  "シン,ジン",
+        "en":  "servant,serviteur,sujet",
+        "jp":  "臣"
+    },
+    {
+        "reading":  "ジ,シ,みずか.ら,おの.ずから,おの.ずと",
+        "en":  "soi-même",
+        "jp":  "自"
+    },
+    {
+        "reading":  "シ,いた.る",
+        "en":  "aboutissement,paroxysme,solstice,atteindre,arriver à,direction,résultat",
+        "jp":  "至"
+    },
+    {
+        "reading":  "キュウ,グ,うす,うすづ.く",
+        "en":  "mortier",
+        "jp":  "臼"
+    },
+    {
+        "reading":  "ゼツ,した",
+        "en":  "langue,anche,battant (cloche)",
+        "jp":  "舌"
+    },
+    {
+        "reading":  "ブ,セン,まい,そむ.く",
+        "en":  "dancing radical (no. 136)",
+        "jp":  "舛"
+    },
+    {
+        "reading":  "シュウ,ふね,ふな-,-ぶね",
+        "en":  "bateau,vaisseau",
+        "jp":  "舟"
+    },
+    {
+        "reading":  "コン,ゴン,うしとら",
+        "en":  "northeast (Oriental zodiac),stopping,good radical (no. 138)",
+        "jp":  "艮"
+    },
+    {
+        "reading":  "ショク,シキ,いろ",
+        "en":  "couleur",
+        "jp":  "色"
+    },
+    {
+        "reading":  "ソウ,くさ",
+        "en":  "grass,plants,grass radical (no. 140)",
+        "jp":  "艸"
+    },
+    {
+        "reading":  "",
+        "en":  "grass,radical number 140",
+        "jp":  "艹"
+    },
+    {
+        "reading":  "コ",
+        "en":  "tiger spots,mottled,tiger or tiger crown radical (no. 141)",
+        "jp":  "虍"
+    },
+    {
+        "reading":  "チュウ,キ,むし",
+        "en":  "insecte,vermine,ver,reptile,colère",
+        "jp":  "虫"
+    },
+    {
+        "reading":  "ケツ,ち",
+        "en":  "sang",
+        "jp":  "血"
+    },
+    {
+        "reading":  "コウ,ギョウ,アン,い.く,ゆ.く,-ゆ.き,-ゆき,-い.き,-いき,おこな.う,おこ.なう",
+        "en":  "aller,voyage",
+        "jp":  "行"
+    },
+    {
+        "reading":  "イ,エ,ころも,きぬ,-ぎ",
+        "en":  "vêtement,habillement",
+        "jp":  "衣"
+    },
+    {
+        "reading":  "ころも",
+        "en":  "clothes,clothing radical (no. 145",
+        "jp":  "衤"
+    },
+    {
+        "reading":  "ア,け",
+        "en":  "cover,place on top of,west radical variant (no. 146)",
+        "jp":  "襾"
+    },
+    {
+        "reading":  "",
+        "en":  "variant of radical 146",
+        "jp":  "覀"
+    },
+    {
+        "reading":  "ケン,み.る,み.える,み.せる",
+        "en":  "regarder,voir,visible,espoirs,chances,idée,opinion",
+        "jp":  "見"
+    },
+    {
+        "reading":  "カク,かど,つの",
+        "en":  "angle,coin,carré,corne,bois (andouillers)",
+        "jp":  "角"
+    },
+    {
+        "reading":  "ゲン,ゴン,い.う,こと",
+        "en":  "dire",
+        "jp":  "言"
+    },
+    {
+        "reading":  "コク,たに,きわ.まる",
+        "en":  "vallée",
+        "jp":  "谷"
+    },
+    {
+        "reading":  "トウ,ズ,まめ,まめ-",
+        "en":  "haricot,pois,infime",
+        "jp":  "豆"
+    },
+    {
+        "reading":  "シ",
+        "en":  "pig,hog,pig radical (no. 152)",
+        "jp":  "豕"
+    },
+    {
+        "reading":  "タイ,チ",
+        "en":  "snake,legless insect,badger or clawed dog radical (no. 153)",
+        "jp":  "豸"
+    },
+    {
+        "reading":  "バイ,かい",
+        "en":  "coquillage",
+        "jp":  "貝"
+    },
+    {
+        "reading":  "セキ,シャク,あか,あか-,あか.い,あか.らむ,あか.らめる",
+        "en":  "rouge",
+        "jp":  "赤"
+    },
+    {
+        "reading":  "ソウ,はし.る",
+        "en":  "courir",
+        "jp":  "走"
+    },
+    {
+        "reading":  "ソク,あし,た.りる,た.る,た.す",
+        "en":  "jambe,pied,suffire,ajouter,compteur de paires de chaussures",
+        "jp":  "足"
+    },
+    {
+        "reading":  "シン,み",
+        "en":  "individu,personne,situation sociale",
+        "jp":  "身"
+    },
+    {
+        "reading":  "シャ,くるま",
+        "en":  "véhicule,voiture",
+        "jp":  "車"
+    },
+    {
+        "reading":  "シン,から.い,つら.い,-づら.い,かのと",
+        "en":  "épicé,amer,piquant,âcre",
+        "jp":  "辛"
+    },
+    {
+        "reading":  "シン,ジン,たつ",
+        "en":  "signe de la 5ème branche terrestre,signe du Dragon (zodiaque),7 à 9 heures du matin,radical shinnotatsu dragon (no. 161)",
+        "jp":  "辰"
+    },
+    {
+        "reading":  "チャク",
+        "en":  "walk,walking,road radical (no. 162)",
+        "jp":  "辵"
+    },
+    {
+        "reading":  "チャク",
+        "en":  "walk,walking,road radical variant (no. 162)",
+        "jp":  "辶"
+    },
+    {
+        "reading":  "ユウ,むら",
+        "en":  "village,rural community,right village radical (no. 163)",
+        "jp":  "邑"
+    },
+    {
+        "reading":  "ユウ,とり",
+        "en":  "signe de la 10ème branche terrestre,signe du Coq (zodiaque),oiseau,Ouest (270°),17 à 19 h,radical saké (no. 164)",
+        "jp":  "酉"
+    },
+    {
+        "reading":  "ハン,ベン,サイ,と.る,いろどり,のごめ",
+        "en":  "separate,divide,topped rice radical (no. 165)",
+        "jp":  "釆"
+    },
+    {
+        "reading":  "リ,さと",
+        "en":  "hameau,village natal,maison de ses parents,ri (3965 mètres)",
+        "jp":  "里"
+    },
+    {
+        "reading":  "キン,コン,ゴン,かね,かな-,-がね",
+        "en":  "or",
+        "jp":  "金"
+    },
+    {
+        "reading":  "チョウ,なが.い,おさ",
+        "en":  "long,chef",
+        "jp":  "長"
+    },
+    {
+        "reading":  "モン,かど,と",
+        "en":  "portail,compteur de canons",
+        "jp":  "門"
+    },
+    {
+        "reading":  "フ,フウ",
+        "en":  "hill,mound,left village radical (no. 170)",
+        "jp":  "阜"
+    },
+    {
+        "reading":  "タイ",
+        "en":  "extend,give,cast,slave radical (no. 171)",
+        "jp":  "隶"
+    },
+    {
+        "reading":  "サイ,スイ,とり",
+        "en":  "bird,old bird radical (no. 172)",
+        "jp":  "隹"
+    },
+    {
+        "reading":  "ウ,あめ,あま-,-さめ",
+        "en":  "pluie",
+        "jp":  "雨"
+    },
+    {
+        "reading":  "セイ,ショウ,あお,あお-,あお.い",
+        "en":  "bleu,vert",
+        "jp":  "青"
+    },
+    {
+        "reading":  "ヒ,あら.ず",
+        "en":  "in-,non-,négatif,faute,injustice,condamner",
+        "jp":  "非"
+    },
+    {
+        "reading":  "メン,ベン,おも,おもて,つら",
+        "en":  "masque,face,traits,surface",
+        "jp":  "面"
+    },
+    {
+        "reading":  "カク,かわ",
+        "en":  "cuir,peau,fourrure,devenir sérieux,rénovation,réforme",
+        "jp":  "革"
+    },
+    {
+        "reading":  "イ,そむ.く",
+        "en":  "tanned leather radical (no. 178)",
+        "jp":  "韋"
+    },
+    {
+        "reading":  "キュウ,ク",
+        "en":  "leek radical (no. 179)",
+        "jp":  "韭"
+    },
+    {
+        "reading":  "オン,イン,-ノン,おと,ね",
+        "en":  "son,bruit",
+        "jp":  "音"
+    },
+    {
+        "reading":  "ケツ,ぺえじ,おおがい,かしら",
+        "en":  "page,feuille",
+        "jp":  "頁"
+    },
+    {
+        "reading":  "フウ,フ,かぜ,かざ-,-かぜ",
+        "en":  "vent,air,style,manière",
+        "jp":  "風"
+    },
+    {
+        "reading":  "ヒ,と.ぶ,と.ばす,-と.ばす",
+        "en":  "voler,sauter (une page),répandre",
+        "jp":  "飛"
+    },
+    {
+        "reading":  "ショク,ジキ,く.う,く.らう,た.べる,は.む",
+        "en":  "manger,nourriture",
+        "jp":  "食"
+    },
+    {
+        "reading":  "",
+        "en":  "eat,food,radical number 184",
+        "jp":  "飠"
+    },
+    {
+        "reading":  "シュ,くび",
+        "en":  "cou,compteur de chansons ou poèmes",
+        "jp":  "首"
+    },
+    {
+        "reading":  "コウ,キョウ,か,かお.り,かお.る",
+        "en":  "senteur,encens,parfum",
+        "jp":  "香"
+    },
+    {
+        "reading":  "バ,うま,うま-,ま",
+        "en":  "cheval",
+        "jp":  "馬"
+    },
+    {
+        "reading":  "コツ,ほね",
+        "en":  "os,squelette,restes,charpente",
+        "jp":  "骨"
+    },
+    {
+        "reading":  "コウ,たか.い,たか,-だか,たか.まる,たか.める",
+        "en":  "haut,élevé,grand,cher",
+        "jp":  "高"
+    },
+    {
+        "reading":  "ヒュウ,ヒョウ",
+        "en":  "hair hanging long,mane,long hair radical (no.190)",
+        "jp":  "髟"
+    },
+    {
+        "reading":  "",
+        "en":  "broken gate radical (no. 191)",
+        "jp":  "鬥"
+    },
+    {
+        "reading":  "チョウ,かおりぐさ",
+        "en":  "fragrant herbs,spiced liqueur,grow,spread",
+        "jp":  "鬯"
+    },
+    {
+        "reading":  "カク,レキ,かなえ,へだ.てる",
+        "en":  "tripod",
+        "jp":  "鬲"
+    },
+    {
+        "reading":  "キ,おに,おに-",
+        "en":  "démon,monstre",
+        "jp":  "鬼"
+    },
+    {
+        "reading":  "ギョ,うお,さかな,-ざかな",
+        "en":  "poisson",
+        "jp":  "魚"
+    },
+    {
+        "reading":  "チョウ,とり",
+        "en":  "oiseau,poulet",
+        "jp":  "鳥"
+    },
+    {
+        "reading":  "ロ,しお,しおち,たて",
+        "en":  "salt",
+        "jp":  "鹵"
+    },
+    {
+        "reading":  "ロク,しか,か",
+        "en":  "cerf",
+        "jp":  "鹿"
+    },
+    {
+        "reading":  "バク,むぎ",
+        "en":  "wheat",
+        "jp":  "麥"
+    },
+    {
+        "reading":  "マ,マア,あさ",
+        "en":  "chanvre,lin",
+        "jp":  "麻"
+    },
+    {
+        "reading":  "コウ,オウ,き,こ-",
+        "en":  "jaune",
+        "jp":  "黄"
+    },
+    {
+        "reading":  "ショ,きび",
+        "en":  "millet",
+        "jp":  "黍"
+    },
+    {
+        "reading":  "コク,くろ,くろ.ずむ,くろ.い",
+        "en":  "noir",
+        "jp":  "黒"
+    },
+    {
+        "reading":  "チ,ぬう,ぬいとり",
+        "en":  "sewing radical (no. 204)",
+        "jp":  "黹"
+    },
+    {
+        "reading":  "ボウ,ビン,ベン,ミン,メン,あおがえる,つと.める",
+        "en":  "green frog,industry",
+        "jp":  "黽"
+    },
+    {
+        "reading":  "テイ,かなえ",
+        "en":  "three legged kettle",
+        "jp":  "鼎"
+    },
+    {
+        "reading":  "コ,つづみ",
+        "en":  "tambour,battement,encourager,appel (armée)",
+        "jp":  "鼓"
+    },
+    {
+        "reading":  "ソ,ショ,ねずみ,ねず",
+        "en":  "rat,mouse,dark gray",
+        "jp":  "鼠"
+    },
+    {
+        "reading":  "ビ,はな",
+        "en":  "nez,museau,groin",
+        "jp":  "鼻"
+    },
+    {
+        "reading":  "セイ,サイ,そろ.う,ひと.しい,ひと.しく,あたる,はやい",
+        "en":  "alike,equal,similar,Saito",
+        "jp":  "齊"
+    },
+    {
+        "reading":  "シ,よわい,は,よわ.い,よわい.する",
+        "en":  "tooth,cog",
+        "jp":  "齒"
+    },
+    {
+        "reading":  "リュウ,リョウ,ロウ,たつ",
+        "en":  "dragon,imperial",
+        "jp":  "龍"
+    },
+    {
+        "reading":  "キ,キュウ,キン,かめ",
+        "en":  "turtle,tortoise",
+        "jp":  "龜"
+    },
+    {
+        "reading":  "ヤク,ふえ",
+        "en":  "flute",
+        "jp":  "龠"
+    }
+]
